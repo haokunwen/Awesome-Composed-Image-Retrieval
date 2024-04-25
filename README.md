@@ -14,8 +14,30 @@ Collections for the Composed Image Retrieval (CIR), including Attribute-based CI
 - [1] Memory-Augmented Attribute Manipulation Networks for Interactive Fashion Search. CVPR 2017. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100135)
 
 ## 2. Supervised CIR
+### Pre-prints
+
+### 2024
+- [1] Bi-directional Training for Composed Image Retrieval via Text Prompt Learning. WACV 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10484044)
+- [2] Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features. ACM TOMM 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3617597)
+- [3] Cross-Modal Attention Preservation with Self-Contrastive Learning for Composed Query-Based Image Retrieval. ACM TOMM 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3639469)
+- [4] SPIRIT: Style-guided Patch Interaction for Fashion Image Retrieval with Text Feedback. ACM TOMM 2024. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3640345)
+- [5] Self-Training Boosted Multi-Factor Matching Network for Composed Image Retrieval. IEEE TPAMI 2024. [[Paper]](https://ieeexplore.ieee.org/document/10373096)
+- [6] Dynamic Weighted Combiner for Mixed-Modal Image Retrieval. AAAI 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28004/28023)
+- [7] Data Roaming and Quality Assessment for Composed Image Retrieval. AAAI 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28081/28168)
+- [8] FashionERN Enhance-and-Refine Network for Composed Fashion Image Retrieval. AAAI 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/27885/27795)
+- [9] Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval. SIGIR 2024. [[Paper]](https://arxiv.org/abs/2404.15875)
+
 
 ### 2023
+- [1] AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval. ACM TOMM 2023. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3584703)
+- [2] Multi-Modal Transformer With Global-Local Alignment for Composed Query Image Retrieval. IEEE TMM 2023. [[Paper]](https://ieeexplore.ieee.org/document/10012544)
+- [3] Fashion Image Retrieval with Text Feedback by Additive Attention Compositional Learning. WACV 2023. [[Paper]](https://ieeexplore.ieee.org/document/10030891)
+- [4] Dual-Path Semantic Construction Network for Composed Query-Based Image Retrieval. ICMR 2023. [[Paper]](https://dl.acm.org/doi/10.1145/3591106.3592245)
+- [5] Multi-Grained Attention Network With Mutual Exclusion for Composed Query-Based Image Retrieval. IEEE TCSVT 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10225420)
+- [6] Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features. ACM TOMM 2023. [[Paper]](https://dl.acm.org/doi/10.1145/3617597)
+- [7] Visual-Linguistic Alignment and Composition for Image Retrieval with Text Feedback. ICME 2023. [[Paper]](https://ieeexplore.ieee.org/document/10219821)
+- [8] Composed Image Retrieval via Cross Relation Network With Hierarchical Aggregation Transformer. IEEE TIP 2023. [[Paper]](https://ieeexplore.ieee.org/document/10205526)
+- [9] Target-Guided Composed Image Retrieval. ACM MM 2023. [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3611817)
 
 ### 2022
 - [1] ARTEMIS: Attention-based Retrieval with Text-Explicit Matching and Implicit Similarity. ICLR 2022. [[Paper]](https://openreview.net/forum?id=CVfLvQq9gLo)[[Arxiv]](https://arxiv.org/abs/2203.08101)
