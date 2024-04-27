@@ -1,12 +1,12 @@
 # Awesome-CIR
 Collections for the Composed Image Retrieval (CIR), including:
-- 1. Attribute-based CIR
-- 2. Supervised CIR
-- 3. Few-shot CIR
-- 4. Zero-shot CIR
-- 5. Conversational CIR
-- 6. Composed Video Retrieval (COVR)
-- 7. Sketch-based CIR
+1. Attribute-based CIR
+2. Supervised CIR
+3. Few-shot CIR
+4. Zero-shot CIR
+5. Conversational CIR
+6. Composed Video Retrieval (COVR)
+7. Sketch-based CIR
 
 ## 1. Attribute-based CIR
 ### 2021
