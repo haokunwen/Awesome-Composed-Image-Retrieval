@@ -1,12 +1,12 @@
 # Awesome-CIR
-Collections for the Composed Image Retrieval (CIR), including:
-[1. Attribute-based CIR](#section1)
-2. Supervised CIR
-3. Few-shot CIR
-4. Zero-shot CIR
-5. Conversational CIR
-6. Composed Video Retrieval (COVR)
-7. Sketch-based CIR
+Collections for the Composed Image Retrieval (CIR), including:  
+[1. Attribute-based CIR](#section1)  
+[2. Supervised CIR](#section2)    
+[3. Few-shot CIR](#section3)    
+[4. Zero-shot CIR](#section4)    
+[5. Conversational CIR](#section5)    
+[6. Composed Video Retrieval (COVR)](#section6)    
+[7. Sketch-based CIR](#section7)    
 
 ## 1. Attribute-based CIR<a id="section1"></a>
 ### 2021
@@ -20,7 +20,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 ### 2017
 - [1] **[CVPR'17] |** Memory-Augmented Attribute Manipulation Networks for Interactive Fashion Search. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100135)
 
-## 2. Supervised CIR
+## 2. Supervised CIR<a id="section2"></a>
 ### Pre-prints
 - [1] **[Arxiv'24] |** MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions. [[Paper]](https://arxiv.org/abs/2403.19651)
 - [2] **[Arxiv'24] |** Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives. [[Paper]](https://arxiv.org/abs/2404.11317)
@@ -91,11 +91,11 @@ Collections for the Composed Image Retrieval (CIR), including:
 ### 2019
 - [1] **[CVPR'19] |** Composing Text and Image for Image Retrieval - an Empirical Odyssey. [[Paper]](https://ieeexplore.ieee.org/document/8953387)[[Arxiv]](https://arxiv.org/abs/1812.07119)
 
-## 3. Few-Shot CIR
+## 3. Few-Shot CIR<a id="section3"></a>
 ### 2023
 - [1] **[AAAI'23] |** Few-Shot Composition Learning for Image Retrieval with Prompt Tuning. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25597/25369)
 
-## 4. Zero-Shot CIR
+## 4. Zero-Shot CIR<a id="section4"></a>
 ### 2024
 - [1] **[AAAI'24] |** Context-I2W: Mapping Images to Context-Dependent Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28324)
 - [2] **[ICLR'24] |** Vision-by-Language for Training-Free Compositional Image Retrieval. [[Paper]](https://openreview.net/forum?id=EDPxCjXzSb)
@@ -108,7 +108,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [2] **[CVPR'23] |** Pic2Word: Mapping Pictures to Words for Zero-shot Composed Image Retrieval. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Saito_Pic2Word_Mapping_Pictures_to_Words_for_Zero-Shot_Composed_Image_Retrieval_CVPR_2023_paper.pdf)
 - [3] **[BMVC'23] |** Zero-shot Composed Text-Image Retrieval. [[Paper]](https://proceedings.bmvc2023.org/381/)
 
-## 5. Conversational CIR
+## 5. Conversational CIR<a id="section5"></a>
 ### Pre-prints
 - [1] **[Arxiv'24] |** Leveraging Large Language Models for Multimodal Search. [[Paper]](https://arxiv.org/html/2404.15790v1)
 
@@ -122,12 +122,12 @@ Collections for the Composed Image Retrieval (CIR), including:
 ### 2018
 - [1] **[NeruIPS'18] |** Dialog-based interactive image retrieval. [[Paper]](https://dl.acm.org/doi/10.5555/3326943.3327006)
 
-## 6. COVR
+## 6. COVR<a id="section6"></a>
 ### 2024
 - [1] **[AAAI'24] |** CoVR: Learning Composed Video Retrieval from Web Video Captions. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28334)
 - [2] **[CVPR'24] |** Composed Video Retrieval via Enriched Context and Discriminative Embeddings. [[Paper]](https://arxiv.org/abs/2403.16997)
 
-## 7. Sketch-based CIR
+## 7. Sketch-based CIR<a id="section7"></a>
 ### 2024
 - [1] **[AAAI'24] |** Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27956)
 - [2] **[CVPR'24] |** You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval. [[Paper]](https://arxiv.org/abs/2403.07222)
