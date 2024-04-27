@@ -15,6 +15,13 @@ Collections for the Composed Image Retrieval (CIR), including Attribute-based CI
 
 ## 2. Supervised CIR
 ### Pre-prints
+- [1] **[Arxiv'24] |** MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions. [[Paper]](https://arxiv.org/abs/2403.19651)
+- [2] **[Arxiv'24] |** Leveraging Large Language Models for Multimodal Search. [[Paper]](https://arxiv.org/html/2404.15790v1)
+- [3] **[Arxiv'24] |** Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives. [[Paper]](https://arxiv.org/abs/2404.11317)
+- [4] **[Arxiv'23] |** Relieving Triplet Ambiguity: Consensus Network for Language-Guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2306.02092)
+- [5] **[Arxiv'23] |** Ranking-aware Uncertainty for Text-guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.08131)
+- [6] **[Arxiv'23] |** Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.16649)
+- [7] **[Arxiv'23] |** Dual Relation Alignment for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2309.02169)
 
 ### 2024
 - [1] **[WACV'24] |** Bi-directional Training for Composed Image Retrieval via Text Prompt Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10484044)
@@ -25,8 +32,10 @@ Collections for the Composed Image Retrieval (CIR), including Attribute-based CI
 - [6] **[AAAI'24] |** Dynamic Weighted Combiner for Mixed-Modal Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28004/28023)
 - [7] **[AAAI'24] |** Data Roaming and Quality Assessment for Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28081/28168)
 - [8] **[AAAI'24] |** FashionERN Enhance-and-Refine Network for Composed Fashion Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/27885/27795)
-- [9] **[SIGIR'24] |** Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2404.15875)
-- [10] **[ICLR'24] |** Sentence-level Prompts Benefit Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2310.05473)
+- [9] **[AAAI'24] |** Decomposing Semantic Shifts for Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28479/28933)
+- [10] **[SIGIR'24] |** Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2404.15875)
+- [11] **[ICLR'24] |** Sentence-level Prompts Benefit Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2310.05473)
+- [12] **[TMLR'24] |** Candidate Set Re-ranking for Composed Image Retrieval with Dual Multimodal Encoder. [[Paper]](https://arxiv.org/abs/2305.16304)
 
 
 ### 2023
@@ -39,6 +48,9 @@ Collections for the Composed Image Retrieval (CIR), including Attribute-based CI
 - [7] **[ICME'23] |** Visual-Linguistic Alignment and Composition for Image Retrieval with Text Feedback. [[Paper]](https://ieeexplore.ieee.org/document/10219821)
 - [8] **[TIP'23] |** Composed Image Retrieval via Cross Relation Network With Hierarchical Aggregation Transformer. [[Paper]](https://ieeexplore.ieee.org/document/10205526)
 - [9] **[MM'23] |** Target-Guided Composed Image Retrieval. [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3611817)
+- [10] **[ICCVW'23] |** ProVLA: Compositional Image Search with Progressive Vision-Language Alignment and Multimodal Fusion. [[Paper]](https://ieeexplore.ieee.org/document/10350916)
+- [11] **[NeurIPSW'23] |** NEUCORE: Neural Concept Reasoning for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2310.01358)
+- [12] **[MMW'23] |** Fashion-GPT: Integrating LLMs with Fashion Retrieval System. [[Paper]](https://dl.acm.org/doi/10.1145/3607827.3616844)
 
 ### 2022
 - [1] **[ICLR'22] |** ARTEMIS: Attention-based Retrieval with Text-Explicit Matching and Implicit Similarity. [[Paper]](https://openreview.net/forum?id=CVfLvQq9gLo)[[Arxiv]](https://arxiv.org/abs/2203.08101)
@@ -53,19 +65,36 @@ Collections for the Composed Image Retrieval (CIR), including Attribute-based CI
 - [10] **[EMNLP'22] |** FaD-VLP: Fashion Vision-and-Language Pre-training towards Unified Retrieval and Captioning. [[Paper]](https://aclanthology.org/2022.emnlp-main.716/)
 
 ### 2021
-- [1] **[ICCV'21] |** Image Retrieval on Real-life Images with Pre-trained Vision-and-Language Models. ICCV 2021. [[Paper]](https://ieeexplore.ieee.org/document/9710082/citations#citations)[[Arxiv]](https://arxiv.org/abs/2108.04024)
-- [2] **[CVPR'21] |** CoSMo: Content-Style Modulation for Image Retrieval with Text Feedback. CVPR 2021. [[Paper]](https://ieeexplore.ieee.org/document/9577437)
-- [3] **[WACV'21] |** Compositional Learning of Image-Text Query for Image Retrieval. WACV 2021. [[Paper]](https://ieeexplore.ieee.org/document/9423122)
-- [4] **[MM'21] |** Heterogeneous Feature Fusion and Cross-modal Alignment for Composed Image Retrieval. ACM MM 2021. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475659)
-- [5] **[MM'21] |** Cross-modal Joint Prediction and Alignment for Composed Query Image Retrieval. ACM MM 2021. [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475483)
-- [6] **[MM'21] |** Image Retrieval with Text Feedback by Deep Hierarchical Attention Mutual Information Maximization. ACM MM 2021. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475619)
-- [7] **[AAAI'21] |** Dual Compositional Learning in Interactive Image Retrieval. AAAI 2021. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16271)
-- [8] **[SIGIR'21] |** Comprehensive Linguistic-Visual Composition Network for Image Retrieval. SIGIR 2021. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3462967)
+- [1] **[ICCV'21] |** Image Retrieval on Real-life Images with Pre-trained Vision-and-Language Models. [[Paper]](https://ieeexplore.ieee.org/document/9710082/citations#citations)[[Arxiv]](https://arxiv.org/abs/2108.04024)
+- [2] **[CVPR'21] |** CoSMo: Content-Style Modulation for Image Retrieval with Text Feedback. [[Paper]](https://ieeexplore.ieee.org/document/9577437)
+- [3] **[WACV'21] |** Compositional Learning of Image-Text Query for Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/document/9423122)
+- [4] **[MM'21] |** Heterogeneous Feature Fusion and Cross-modal Alignment for Composed Image Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3474085.3475659)
+- [5] **[MM'21] |** Cross-modal Joint Prediction and Alignment for Composed Query Image Retrieval. [[Paper]](https://dl.acm.org/doi/10.1145/3474085.3475483)
+- [6] **[MM'21] |** Image Retrieval with Text Feedback by Deep Hierarchical Attention Mutual Information Maximization. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475619)
+- [7] **[AAAI'21] |** Dual Compositional Learning in Interactive Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16271)
+- [8] **[SIGIR'21] |** Comprehensive Linguistic-Visual Composition Network for Image Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3462967)
 - 
 ### 2020
-- [1] **[CVPR'20] |** Image Search With Text Feedback by Visiolinguistic Attention Learning. CVPR 2020. [[Paper]](https://ieeexplore.ieee.org/document/9157634)
-- [2] **[MM'20] |** Joint Attribute Manipulation and Modality Alignment Learning for Composing Text and Image to Image Retrieval. ACM MM 2020. [[Paper]](https://dl.acm.org/doi/10.1145/3394171.3413917)
-- [3] **[ECCV'20] |** Learning Joint Visual Semantic Matching Embeddings for Language-Guided Retrieval. ECCV 2020. [[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-58542-6_9.pdf?pdf=inline%20link)
-- [4] **[CVPR'20] |** Composed Query Image Retrieval Using Locally Bounded Features. CVPR 2020. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9157125)
+- [1] **[CVPR'20] |** Image Search With Text Feedback by Visiolinguistic Attention Learning. [[Paper]](https://ieeexplore.ieee.org/document/9157634)
+- [2] **[MM'20] |** Joint Attribute Manipulation and Modality Alignment Learning for Composing Text and Image to Image Retrieval. [[Paper]](https://dl.acm.org/doi/10.1145/3394171.3413917)
+- [3] **[ECCV'20] |** Learning Joint Visual Semantic Matching Embeddings for Language-Guided Retrieval. [[Paper]](https://link.springer.com/content/pdf/10.1007/978-3-030-58542-6_9.pdf?pdf=inline%20link)
+- [4] **[CVPR'20] |** Composed Query Image Retrieval Using Locally Bounded Features. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9157125)
 ### 2019
-- [1] **[CVPR'19] |** Composing Text and Image for Image Retrieval - an Empirical Odyssey. CVPR 2019. [[Paper]](https://ieeexplore.ieee.org/document/8953387)[[Arxiv]](https://arxiv.org/abs/1812.07119)
+- [1] **[CVPR'19] |** Composing Text and Image for Image Retrieval - an Empirical Odyssey. [[Paper]](https://ieeexplore.ieee.org/document/8953387)[[Arxiv]](https://arxiv.org/abs/1812.07119)
+
+## 3. Few-Shot CIR
+### 2023
+- [1] **[AAAI'23] |** Few-Shot Composition Learning for Image Retrieval with Prompt Tuning. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25597/25369)
+
+## 3. Zero-Shot CIR
+### 2024
+- [1] **[AAAI'24] |** Context-I2W: Mapping Images to Context-Dependent Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28324)
+- [2] **[ICLR'24] |** Vision-by-Language for Training-Free Compositional Image Retrieval. [[Paper]](https://openreview.net/forum?id=EDPxCjXzSb)
+- [3] **[CVPR'24] |** LinCIR: Language-only Training of Zero-shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2312.01998)
+- [4] **[CVPR'24] |** Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2403.16005)
+- [5] **[SIGIR'24] |** Fine-grained Textual Inversion network for Zero-Shot Composed Image Retrieval.
+
+### 2023
+- [1] **[ICCV'23] |** Zero-shot Composed Image Retrieval with Textual Inversion. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.html)
+- [2] **[CVPR'23] |** Pic2Word: Mapping Pictures to Words for Zero-shot Composed Image Retrieval. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Saito_Pic2Word_Mapping_Pictures_to_Words_for_Zero-Shot_Composed_Image_Retrieval_CVPR_2023_paper.pdf)
+- [3] **[BMVC'23] |** Zero-shot Composed Text-Image Retrieval. [[Paper]](https://proceedings.bmvc2023.org/381/)
