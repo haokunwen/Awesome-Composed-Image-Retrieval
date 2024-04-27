@@ -1,6 +1,6 @@
 # Awesome-CIR
 Collections for the Composed Image Retrieval (CIR), including:
-1. Attribute-based CIR
+[1. Attribute-based CIR](#section1)
 2. Supervised CIR
 3. Few-shot CIR
 4. Zero-shot CIR
@@ -8,7 +8,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 6. Composed Video Retrieval (COVR)
 7. Sketch-based CIR
 
-## 1. Attribute-based CIR
+## 1. Attribute-based CIR<a id="section1"></a>
 ### 2021
 - [1] **[ICCV'21] |** Learning Attribute-driven Disentangled Representations for Interactive Fashion Retrieval. [[Paper]](https://ieeexplore.ieee.org/document/9711479)
 - [2] **[ICCV'21] |** Face Image Retrieval with Attribute Manipulation. [[Paper]](https://ieeexplore.ieee.org/document/9710728)
