@@ -17,16 +17,16 @@ Collections for the Composed Image Retrieval (CIR), including Attribute-based CI
 ### Pre-prints
 
 ### 2024
-- [1] **[WACV 2024] |** Bi-directional Training for Composed Image Retrieval via Text Prompt Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10484044)
-- [2] **[ACM TOMM 2024] |** Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features. [[Paper]](https://dl.acm.org/doi/10.1145/3617597)
-- [3] Cross-Modal Attention Preservation with Self-Contrastive Learning for Composed Query-Based Image Retrieval. ACM TOMM 2024. [[Paper]](https://dl.acm.org/doi/10.1145/3639469)
-- [4] SPIRIT: Style-guided Patch Interaction for Fashion Image Retrieval with Text Feedback. ACM TOMM 2024. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3640345)
-- [5] Self-Training Boosted Multi-Factor Matching Network for Composed Image Retrieval. IEEE TPAMI 2024. [[Paper]](https://ieeexplore.ieee.org/document/10373096)
-- [6] Dynamic Weighted Combiner for Mixed-Modal Image Retrieval. AAAI 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28004/28023)
-- [7] Data Roaming and Quality Assessment for Composed Image Retrieval. AAAI 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28081/28168)
-- [8] FashionERN Enhance-and-Refine Network for Composed Fashion Image Retrieval. AAAI 2024. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/27885/27795)
-- [9] Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval. SIGIR 2024. [[Paper]](https://arxiv.org/abs/2404.15875)
-- [10] Sentence-level Prompts Benefit Composed Image Retrieval. ICLR 2024. [[Paper]](https://arxiv.org/abs/2310.05473)
+- [1] **[WACV'24] |** Bi-directional Training for Composed Image Retrieval via Text Prompt Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10484044)
+- [2] **[ACM TOMM'24] |** Composed Image Retrieval using Contrastive Learning and Task-oriented CLIP-based Features. [[Paper]](https://dl.acm.org/doi/10.1145/3617597)
+- [3] **[ACM TOMM'24] |** Cross-Modal Attention Preservation with Self-Contrastive Learning for Composed Query-Based Image Retrieval. [[Paper]](https://dl.acm.org/doi/10.1145/3639469)
+- [4] **[ACM TOMM'24] |** SPIRIT: Style-guided Patch Interaction for Fashion Image Retrieval with Text Feedback. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3640345)
+- [5] **[IEEE TPAMI'24] |** Self-Training Boosted Multi-Factor Matching Network for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/document/10373096)
+- [6] **[AAAI'24] |** Dynamic Weighted Combiner for Mixed-Modal Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28004/28023)
+- [7] **[AAAI'24] |** Data Roaming and Quality Assessment for Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28081/28168)
+- [8] **[AAAI'24] |** FashionERN Enhance-and-Refine Network for Composed Fashion Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/27885/27795)
+- [9] **[SIGIR'24] |** Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2404.15875)
+- [10] **[ICLR'24] |** Sentence-level Prompts Benefit Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2310.05473)
 
 
 ### 2023
