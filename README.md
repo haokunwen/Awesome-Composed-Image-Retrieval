@@ -1,5 +1,12 @@
 # Awesome-CIR
-Collections for the Composed Image Retrieval (CIR), including Attribute-based CIR, Supervised CIR, Few-shot CIR, Zero-shot CIR, and Conversational CIR. (keep updating...)
+Collections for the Composed Image Retrieval (CIR), including:
+- 1. Attribute-based CIR
+- 2. Supervised CIR
+- 3. Few-shot CIR
+- 4. Zero-shot CIR
+- 5. Conversational CIR
+- 6. Composed Video Retrieval (COVR)
+- 7. Sketch-based CIR
 
 ## 1. Attribute-based CIR
 ### 2021
@@ -115,5 +122,12 @@ Collections for the Composed Image Retrieval (CIR), including Attribute-based CI
 ### 2018
 - [1] **[NeruIPS'18] |** Dialog-based interactive image retrieval. [[Paper]](https://dl.acm.org/doi/10.5555/3326943.3327006)
 
+## 6. COVR
+### 2024
+- [1] **[AAAI'24] |** CoVR: Learning Composed Video Retrieval from Web Video Captions. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28334)
+- [2] **[CVPR'24] |** Composed Video Retrieval via Enriched Context and Discriminative Embeddings. [[Paper]](https://arxiv.org/abs/2403.16997)
 
-
+## 7. Sketch-based CIR
+### 2024
+- [1] **[AAAI'24] |** Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27956)
+- [2] **[CVPR'24] |** You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval. [[Paper]](https://arxiv.org/abs/2403.07222)
