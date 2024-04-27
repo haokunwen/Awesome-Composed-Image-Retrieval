@@ -1,7 +1,7 @@
 # Awesome-CIR
 Collections for the Composed Image Retrieval (CIR), including:
 1. Attribute-based CIR
-[2. Supervised CIR](https://github.com/haokunwen/Awesome-Composed-Image-Retrieval?tab=readme-ov-file#2-supervised-cir)
+2. Supervised CIR
 3. Few-shot CIR
 4. Zero-shot CIR
 5. Conversational CIR
