@@ -96,6 +96,9 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [1] **[AAAI'23] |** Few-Shot Composition Learning for Image Retrieval with Prompt Tuning. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25597/25369)
 
 ## 4. Zero-Shot CIR<a id="section4"></a>
+### Pre-prints
+- [1] **[Arxiv'24] |** Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2405.00571)
+
 ### 2024
 - [1] **[AAAI'24] |** Context-I2W: Mapping Images to Context-Dependent Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28324)
 - [2] **[ICLR'24] |** Vision-by-Language for Training-Free Compositional Image Retrieval. [[Paper]](https://openreview.net/forum?id=EDPxCjXzSb)
