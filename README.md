@@ -28,6 +28,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [4] **[Arxiv'23] |** Ranking-aware Uncertainty for Text-guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.08131)
 - [5] **[Arxiv'23] |** Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.16649)
 - [6] **[Arxiv'23] |** Dual Relation Alignment for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2309.02169)
+- [7] **[Arxiv'23] |** VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering. [[Paper]](https://arxiv.org/abs/2312.12273)
 
 ### 2024
 - [1] **[WACV'24] |** Bi-directional Training for Composed Image Retrieval via Text Prompt Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10484044)
