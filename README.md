@@ -22,13 +22,12 @@ Collections for the Composed Image Retrieval (CIR), including:
 
 ## 2. Supervised CIR<a id="section2"></a>
 ### Pre-prints
-- [1] **[Arxiv'24] |** MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions. [[Paper]](https://arxiv.org/abs/2403.19651)
-- [2] **[Arxiv'24] |** Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives. [[Paper]](https://arxiv.org/abs/2404.11317)
-- [3] **[Arxiv'23] |** Relieving Triplet Ambiguity: Consensus Network for Language-Guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2306.02092)
-- [4] **[Arxiv'23] |** Ranking-aware Uncertainty for Text-guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.08131)
-- [5] **[Arxiv'23] |** Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.16649)
-- [6] **[Arxiv'23] |** Dual Relation Alignment for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2309.02169)
-- [7] **[Arxiv'23] |** VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering. [[Paper]](https://arxiv.org/abs/2312.12273)
+- [1] **[Arxiv'24] |** Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives. [[Paper]](https://arxiv.org/abs/2404.11317)
+- [2] **[Arxiv'23] |** Relieving Triplet Ambiguity: Consensus Network for Language-Guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2306.02092)
+- [3] **[Arxiv'23] |** Ranking-aware Uncertainty for Text-guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.08131)
+- [4] **[Arxiv'23] |** Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.16649)
+- [5] **[Arxiv'23] |** Dual Relation Alignment for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2309.02169)
+- [6] **[Arxiv'23] |** VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering. [[Paper]](https://arxiv.org/abs/2312.12273)
 
 ### 2024
 - [1] **[WACV'24] |** Bi-directional Training for Composed Image Retrieval via Text Prompt Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10484044)
@@ -44,6 +43,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [11] **[CVPR'24] |** SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining. [[Paper]](https://arxiv.org/pdf/2404.01156)
 - [12] **[ICLR'24] |** Sentence-level Prompts Benefit Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2310.05473)
 - [13] **[TMLR'24] |** Candidate Set Re-ranking for Composed Image Retrieval with Dual Multimodal Encoder. [[Paper]](https://arxiv.org/abs/2305.16304)
+- [14] **[ICML'24] |** MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions. [[Paper]](https://arxiv.org/abs/2403.19651)
 
 ### 2023
 - [1] **[TOMM'23] |** AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3584703)
