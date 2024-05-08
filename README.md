@@ -99,6 +99,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 ## 4. Zero-Shot CIR<a id="section4"></a>
 ### Pre-prints
 - [1] **[Arxiv'24] |** Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2405.00571)
+- [2] **[Arxiv'24] |** iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2405.02951)
 
 ### 2024
 - [1] **[AAAI'24] |** Context-I2W: Mapping Images to Context-Dependent Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28324)
