@@ -58,6 +58,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [10] **[CVPR'23] |** FAME-ViL: Multi-Tasking Vision-Language Model for Heterogeneous Fashion Tasks. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Han_FAME-ViL_Multi-Tasking_Vision-Language_Model_for_Heterogeneous_Fashion_Tasks_CVPR_2023_paper.pdf)
 - [11] **[ICCVW'23] |** ProVLA: Compositional Image Search with Progressive Vision-Language Alignment and Multimodal Fusion. [[Paper]](https://ieeexplore.ieee.org/document/10350916)
 - [12] **[NeurIPSW'23] |** NEUCORE: Neural Concept Reasoning for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2310.01358)
+- [13] **[NeurIPSW'23] |** Benchmarking Robustness of Text-Image Composed Retrieval. [[Paper]](https://suntongtongtong.github.io/benchmarking_robustness.pdf)
 - [13] **[MMW'23] |** Fashion-GPT: Integrating LLMs with Fashion Retrieval System. [[Paper]](https://dl.acm.org/doi/10.1145/3607827.3616844)
 
 ### 2022
