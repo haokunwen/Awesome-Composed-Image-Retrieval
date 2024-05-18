@@ -44,6 +44,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [12] **[ICLR'24] |** Sentence-level Prompts Benefit Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2310.05473)
 - [13] **[TMLR'24] |** Candidate Set Re-ranking for Composed Image Retrieval with Dual Multimodal Encoder. [[Paper]](https://arxiv.org/abs/2305.16304)
 - [14] **[ICML'24] |** MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions. [[Paper]](https://arxiv.org/abs/2403.19651)
+- [15] **[TCSVT'24] |** Set of Diverse Queries with Uncertainty Regularization for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10530361)
 
 ### 2023
 - [1] **[TOMM'23] |** AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3584703)
