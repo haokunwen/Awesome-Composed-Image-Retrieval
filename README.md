@@ -40,11 +40,12 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [8] **[AAAI'24] |** FashionERN Enhance-and-Refine Network for Composed Fashion Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/27885/27795)
 - [9] **[AAAI'24] |** Decomposing Semantic Shifts for Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28479/28933)
 - [10] **[SIGIR'24] |** Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2404.15875)
-- [11] **[CVPR'24] |** SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining. [[Paper]](https://arxiv.org/pdf/2404.01156)
-- [12] **[ICLR'24] |** Sentence-level Prompts Benefit Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2310.05473)
-- [13] **[TMLR'24] |** Candidate Set Re-ranking for Composed Image Retrieval with Dual Multimodal Encoder. [[Paper]](https://arxiv.org/abs/2305.16304)
-- [14] **[ICML'24] |** MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions. [[Paper]](https://arxiv.org/abs/2403.19651)
-- [15] **[TCSVT'24] |** Set of Diverse Queries with Uncertainty Regularization for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10530361)
+- [11] **[SIGIR'24] |** CaLa: Complementary Association Learning for Augmenting Composed Image Retrieval. [[Paper]](https://export.arxiv.org/abs/2405.19149)
+- [12] **[CVPR'24] |** SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining. [[Paper]](https://arxiv.org/pdf/2404.01156)
+- [13] **[ICLR'24] |** Sentence-level Prompts Benefit Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2310.05473)
+- [14] **[TMLR'24] |** Candidate Set Re-ranking for Composed Image Retrieval with Dual Multimodal Encoder. [[Paper]](https://arxiv.org/abs/2305.16304)
+- [15] **[ICML'24] |** MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions. [[Paper]](https://arxiv.org/abs/2403.19651)
+- [16] **[TCSVT'24] |** Set of Diverse Queries with Uncertainty Regularization for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10530361)
 
 ### 2023
 - [1] **[TOMM'23] |** AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3584703)
