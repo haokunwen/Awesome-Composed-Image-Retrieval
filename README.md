@@ -7,6 +7,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 [5. Conversational CIR](#section5)    
 [6. Composed Video Retrieval (COVR)](#section6)    
 [7. Sketch-based CIR](#section7)    
+[8. Others](#section8)
 
 ## 1. Attribute-based CIR<a id="section1"></a>
 ### 2021
@@ -140,3 +141,11 @@ Collections for the Composed Image Retrieval (CIR), including:
 ### 2024
 - [1] **[AAAI'24] |** Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27956)
 - [2] **[CVPR'24] |** You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval. [[Paper]](https://arxiv.org/abs/2403.07222)
+
+## 8. Others<a id="section8"></a>
+### Composed Person Retrieval
+- [1] **[Arxiv'24] |** Word4Per: Zero-shot Composed Person Retrieval. [[Paper]](https://arxiv.org/abs/2311.16515)
+
+### Remote Sensing Retrieval
+- [1] **[IGARSS'24] |** Composed Image Retrieval for Remote Sensing. [[Paper]](https://arxiv.org/abs/2405.15587)
+
