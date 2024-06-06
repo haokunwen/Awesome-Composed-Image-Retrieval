@@ -143,7 +143,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [2] **[CVPR'24] |** You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval. [[Paper]](https://arxiv.org/abs/2403.07222)
 
 ## 8. Others<a id="section8"></a>
-### Composed Person Retrieval
+### Person Retrieval
 - [1] **[Arxiv'24] |** Word4Per: Zero-shot Composed Person Retrieval. [[Paper]](https://arxiv.org/abs/2311.16515)
 
 ### Remote Sensing Retrieval
