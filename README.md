@@ -87,7 +87,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [6] **[MM'21] |** Image Retrieval with Text Feedback by Deep Hierarchical Attention Mutual Information Maximization. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475619)
 - [7] **[AAAI'21] |** Dual Compositional Learning in Interactive Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/16271)
 - [8] **[SIGIR'21] |** Comprehensive Linguistic-Visual Composition Network for Image Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3462967)
-- 
+  
 ### 2020
 - [1] **[CVPR'20] |** Image Search With Text Feedback by Visiolinguistic Attention Learning. [[Paper]](https://ieeexplore.ieee.org/document/9157634)
 - [2] **[MM'20] |** Joint Attribute Manipulation and Modality Alignment Learning for Composing Text and Image to Image Retrieval. [[Paper]](https://dl.acm.org/doi/10.1145/3394171.3413917)
