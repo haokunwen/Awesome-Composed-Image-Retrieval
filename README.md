@@ -113,6 +113,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [3] **[CVPR'24] |** LinCIR: Language-only Training of Zero-shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2312.01998)
 - [4] **[CVPR'24] |** Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2403.16005)
 - [5] **[SIGIR'24] |** Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval.
+- [6] **[SIGIR'24] |** LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval.
 
 ### 2023
 - [1] **[ICCV'23] |** Zero-shot Composed Image Retrieval with Textual Inversion. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.html)
