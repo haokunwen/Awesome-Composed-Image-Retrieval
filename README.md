@@ -45,10 +45,11 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [11] **[SIGIR'24] |** CaLa: Complementary Association Learning for Augmenting Composed Image Retrieval. [[Paper]](https://export.arxiv.org/abs/2405.19149)
 - [12] **[CVPR'24] |** SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining. [[Paper]](https://arxiv.org/pdf/2404.01156)
 - [13] **[ICLR'24] |** Sentence-level Prompts Benefit Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2310.05473)
-- [14] **[TMLR'24] |** Candidate Set Re-ranking for Composed Image Retrieval with Dual Multimodal Encoder. [[Paper]](https://arxiv.org/abs/2305.16304)
-- [15] **[ICML'24] |** MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions. [[Paper]](https://arxiv.org/abs/2403.19651)
-- [16] **[TCSVT'24] |** Set of Diverse Queries with Uncertainty Regularization for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10530361)
-- [17] **[ICMR'24] |** CLIP-ProbCR:CLIP-based Probability embedding Combination Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3652583.3657611)
+- [14] **[ICLR'24] |** Composed Image Retrieval with Text Feedback via Multi-Grained Uncertainty Regularization. [[Paper]](https://arxiv.org/pdf/2211.07394v5)
+- [15] **[TMLR'24] |** Candidate Set Re-ranking for Composed Image Retrieval with Dual Multimodal Encoder. [[Paper]](https://arxiv.org/abs/2305.16304)
+- [16] **[ICML'24] |** MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions. [[Paper]](https://arxiv.org/abs/2403.19651)
+- [17] **[TCSVT'24] |** Set of Diverse Queries with Uncertainty Regularization for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10530361)
+- [18] **[ICMR'24] |** CLIP-ProbCR:CLIP-based Probability embedding Combination Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3652583.3657611)
 
 ### 2023
 - [1] **[TOMM'23] |** AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3584703)
