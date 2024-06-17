@@ -152,4 +152,5 @@ Collections for the Composed Image Retrieval (CIR), including:
 
 ### Remote Sensing Retrieval
 - [1] **[IGARSS'24] |** Composed Image Retrieval for Remote Sensing. [[Paper]](https://arxiv.org/abs/2405.15587)
+- [2] **[TGRS'24] |** Scene Graph-Aware Hierarchical Fusion Network for Remote Sensing Image Retrieval With Text Feedback. [[Paper]](https://ieeexplore.ieee.org/document/10537211)
 
