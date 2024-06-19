@@ -4,10 +4,11 @@ Collections for the Composed Image Retrieval (CIR), including:
 [2. Supervised CIR](#section2)    
 [3. Few-shot CIR](#section3)    
 [4. Zero-shot CIR](#section4)    
-[5. Conversational CIR](#section5)    
-[6. Composed Video Retrieval (COVR)](#section6)    
-[7. Sketch-based CIR](#section7)    
-[8. Others](#section8)
+[5. Semi-supervised CIR](#section5)    
+[6. Conversational CIR](#section6)    
+[7. Composed Video Retrieval (COVR)](#section7)    
+[8. Sketch-based CIR](#section8)    
+[9. Others](#section9)
 
 ## 1. Attribute-based CIR<a id="section1"></a>
 ### 2021
@@ -124,7 +125,11 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [2] **[CVPR'23] |** Pic2Word: Mapping Pictures to Words for Zero-shot Composed Image Retrieval. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Saito_Pic2Word_Mapping_Pictures_to_Words_for_Zero-Shot_Composed_Image_Retrieval_CVPR_2023_paper.pdf)
 - [3] **[BMVC'23] |** Zero-shot Composed Text-Image Retrieval. [[Paper]](https://proceedings.bmvc2023.org/381/)
 
-## 5. Conversational CIR<a id="section5"></a>
+## 5. Semi-supervised CIR<a id="section5"></a>
+### 2024
+- [1] **[CVPR'24] |** Visual Delta Generator with Large Multi-modal Models for Semi-supervised Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2404.15516)
+
+## 6. Conversational CIR<a id="section6"></a>
 ### Pre-prints
 - [1] **[Arxiv'24] |** Leveraging Large Language Models for Multimodal Search. [[Paper]](https://arxiv.org/html/2404.15790v1)
 
@@ -138,17 +143,17 @@ Collections for the Composed Image Retrieval (CIR), including:
 ### 2018
 - [1] **[NeruIPS'18] |** Dialog-based interactive image retrieval. [[Paper]](https://dl.acm.org/doi/10.5555/3326943.3327006)
 
-## 6. COVR<a id="section6"></a>
+## 7. COVR<a id="section7"></a>
 ### 2024
 - [1] **[AAAI'24] |** CoVR: Learning Composed Video Retrieval from Web Video Captions. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28334)
 - [2] **[CVPR'24] |** Composed Video Retrieval via Enriched Context and Discriminative Embeddings. [[Paper]](https://arxiv.org/abs/2403.16997)
 
-## 7. Sketch-based CIR<a id="section7"></a>
+## 8. Sketch-based CIR<a id="section8"></a>
 ### 2024
 - [1] **[AAAI'24] |** Composite Sketch+Text Queries for Retrieving Objects with Elusive Names and Complex Interactions. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/27956)
 - [2] **[CVPR'24] |** You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval. [[Paper]](https://arxiv.org/abs/2403.07222)
 
-## 8. Others<a id="section8"></a>
+## 9. Others<a id="section9"></a>
 ### Person Retrieval
 - [1] **[Arxiv'24] |** Word4Per: Zero-shot Composed Person Retrieval. [[Paper]](https://arxiv.org/abs/2311.16515)
 
