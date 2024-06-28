@@ -29,8 +29,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [3] **[Arxiv'23] |** Relieving Triplet Ambiguity: Consensus Network for Language-Guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2306.02092)
 - [4] **[Arxiv'23] |** Ranking-aware Uncertainty for Text-guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.08131)
 - [5] **[Arxiv'23] |** Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.16649)
-- [6] **[Arxiv'23] |** Dual Relation Alignment for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2309.02169)
-- [7] **[Arxiv'23] |** VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering. [[Paper]](https://arxiv.org/abs/2312.12273)
+- [6] **[Arxiv'23] |** VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering. [[Paper]](https://arxiv.org/abs/2312.12273)
 
 ### 2024
 - [1] **[WACV'24] |** Bi-directional Training for Composed Image Retrieval via Text Prompt Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10484044)
@@ -51,6 +50,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [16] **[ICML'24] |** MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions. [[Paper]](https://arxiv.org/abs/2403.19651)
 - [17] **[TCSVT'24] |** Set of Diverse Queries with Uncertainty Regularization for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10530361)
 - [18] **[ICMR'24] |** CLIP-ProbCR:CLIP-based Probability embedding Combination Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3652583.3657611)
+- [19] **[TMM'24] |** Align and Retrieve: Composition and Decomposition Learning in Image Retrieval with Text Feedback. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10568424)
 
 ### 2023
 - [1] **[TOMM'23] |** AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3584703)
