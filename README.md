@@ -51,6 +51,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [17] **[TCSVT'24] |** Set of Diverse Queries with Uncertainty Regularization for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10530361)
 - [18] **[ICMR'24] |** CLIP-ProbCR:CLIP-based Probability embedding Combination Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3652583.3657611)
 - [19] **[TMM'24] |** Align and Retrieve: Composition and Decomposition Learning in Image Retrieval with Text Feedback. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10568424)
+- [20] **[KBS'24] |** Collaborative Group: Composed Image Retrieval via Consensus Learning From Noisy Annotations. [[Paper]](https://www.sciencedirect.com/science/article/pii/S095070512400769X?via%3Dihub)
 
 ### 2023
 - [1] **[TOMM'23] |** AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3584703)
