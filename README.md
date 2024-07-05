@@ -111,7 +111,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [2] **[Arxiv'24] |** iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2405.02951)
 - [3] **[Arxiv'24] |** Reducing Task Discrepancy of Text Encoders for Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2406.09188)
 - [4] **[Arxiv'24] |** Zero-shot Composed Image Retrieval Considering Query-target Relationship Leveraging Masked Image-text Pairs. [[Paper]](https://arxiv.org/abs/2406.18836)
-- [5] **[Arxiv'23] |** Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2311.07622)
+- [5] **[Arxiv'24] |** Training-free Zero-shot Composed Image Retrieval with Local Concept Re-ranking. [[Paper]](https://arxiv.org/abs/2312.08924)
+- [6] **[Arxiv'23] |** Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2311.07622)
 
 ### 2024
 - [1] **[AAAI'24] |** Context-I2W: Mapping Images to Context-Dependent Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28324)
