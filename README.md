@@ -41,7 +41,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [7] **[AAAI'24] |** Data Roaming and Quality Assessment for Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28081/28168)
 - [8] **[AAAI'24] |** FashionERN Enhance-and-Refine Network for Composed Fashion Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/download/27885/27795)
 - [9] **[AAAI'24] |** Decomposing Semantic Shifts for Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28479/28933)
-- [10] **[SIGIR'24] |** Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2404.15875)
+- [10] **[SIGIR'24] |** Simple but Effective Raw-Data Level Multimodal Fusion for Composed Image Retrieval. [[Paper]](https://dl.acm.org/doi/10.1145/3626772.3657727)
 - [11] **[SIGIR'24] |** CaLa: Complementary Association Learning for Augmenting Composed Image Retrieval. [[Paper]](https://export.arxiv.org/abs/2405.19149)
 - [12] **[CVPR'24] |** SyncMask: Synchronized Attentional Masking for Fashion-centric Vision-Language Pretraining. [[Paper]](https://arxiv.org/pdf/2404.01156)
 - [13] **[ICLR'24] |** Sentence-level Prompts Benefit Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2310.05473)
@@ -124,8 +124,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [2] **[ICLR'24] |** Vision-by-Language for Training-Free Compositional Image Retrieval. [[Paper]](https://openreview.net/forum?id=EDPxCjXzSb)
 - [3] **[CVPR'24] |** LinCIR: Language-only Training of Zero-shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2312.01998)
 - [4] **[CVPR'24] |** Knowledge-Enhanced Dual-stream Zero-shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2403.16005)
-- [5] **[SIGIR'24] |** Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval.
-- [6] **[SIGIR'24] |** LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval.
+- [5] **[SIGIR'24] |** Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval. [[Paper]](https://dl.acm.org/doi/10.1145/3626772.3657831)
+- [6] **[SIGIR'24] |** LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval. [[Paper]](https://dl.acm.org/doi/10.1145/3626772.3657740)
 - [7] **[ICML'24] |** Improve Context Understanding in Multimodal Large Language Models via Multimodal Composition Learning. [[Paper]](https://openreview.net/forum?id=Nm6jYZsBum)
 
 ### 2023
