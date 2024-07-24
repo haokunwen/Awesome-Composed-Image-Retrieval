@@ -126,6 +126,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [5] **[SIGIR'24] |** Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval. [[Paper]](https://dl.acm.org/doi/10.1145/3626772.3657831)
 - [6] **[SIGIR'24] |** LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval. [[Paper]](https://dl.acm.org/doi/10.1145/3626772.3657740)
 - [7] **[ICML'24] |** Improve Context Understanding in Multimodal Large Language Models via Multimodal Composition Learning. [[Paper]](https://openreview.net/forum?id=Nm6jYZsBum)
+- [8] **[TMLR'24] |** CompoDiff: Versatile Composed Image Retrieval With Latent Diffusion. [[Paper]](https://openreview.net/forum?id=mKtlzW0bWc)
 
 ### 2023
 - [1] **[ICCV'23] |** Zero-shot Composed Image Retrieval with Textual Inversion. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.html)
