@@ -152,6 +152,10 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [1] **[NeruIPS'18] |** Dialog-based interactive image retrieval. [[Paper]](https://dl.acm.org/doi/10.5555/3326943.3327006)
 
 ## 7. COVR<a id="section7"></a>
+### Pre-prints
+- [1] **[Arxiv'24] |** EgoCVR: An Egocentric Benchmark for Fine-Grained Composed Video Retrieval. [[Paper]](https://arxiv.org/abs/2407.16658)
+- [2] **[Arxiv'24] |** Localizing Events in Videos with Multimodal Queries. [[Paper]](https://arxiv.org/abs/2406.10079)
+
 ### 2024
 - [1] **[AAAI'24] |** CoVR: Learning Composed Video Retrieval from Web Video Captions. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28334)
 - [2] **[CVPR'24] |** Composed Video Retrieval via Enriched Context and Discriminative Embeddings. [[Paper]](https://arxiv.org/abs/2403.16997)
