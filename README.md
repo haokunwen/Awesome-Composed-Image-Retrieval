@@ -46,12 +46,11 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [12] **[ICLR'24] |** Sentence-level Prompts Benefit Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2310.05473)
 - [13] **[ICLR'24] |** Composed Image Retrieval with Text Feedback via Multi-Grained Uncertainty Regularization. [[Paper]](https://arxiv.org/pdf/2211.07394v5)
 - [14] **[TMLR'24] |** Candidate Set Re-ranking for Composed Image Retrieval with Dual Multimodal Encoder. [[Paper]](https://arxiv.org/abs/2305.16304)
-- [15] **[ICML'24] |** MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions. [[Paper]](https://arxiv.org/abs/2403.19651)
-- [16] **[TCSVT'24] |** Set of Diverse Queries with Uncertainty Regularization for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10530361)
-- [17] **[ICMR'24] |** CLIP-ProbCR:CLIP-based Probability embedding Combination Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3652583.3657611)
-- [18] **[TMM'24] |** Align and Retrieve: Composition and Decomposition Learning in Image Retrieval with Text Feedback. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10568424)
-- [19] **[KBS'24] |** Collaborative Group: Composed Image Retrieval via Consensus Learning From Noisy Annotations. [[Paper]](https://www.sciencedirect.com/science/article/pii/S095070512400769X?via%3Dihub)
-- [20] **[TIP'24] |** Multimodal Composition Example Mining for Composed Query Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10418785)
+- [15] **[TCSVT'24] |** Set of Diverse Queries with Uncertainty Regularization for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10530361)
+- [16] **[ICMR'24] |** CLIP-ProbCR:CLIP-based Probability embedding Combination Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3652583.3657611)
+- [17] **[TMM'24] |** Align and Retrieve: Composition and Decomposition Learning in Image Retrieval with Text Feedback. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10568424)
+- [18] **[KBS'24] |** Collaborative Group: Composed Image Retrieval via Consensus Learning From Noisy Annotations. [[Paper]](https://www.sciencedirect.com/science/article/pii/S095070512400769X?via%3Dihub)
+- [19] **[TIP'24] |** Multimodal Composition Example Mining for Composed Query Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10418785)
 
 ### 2023
 - [1] **[TOMM'23] |** AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3584703)
@@ -126,7 +125,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [5] **[SIGIR'24] |** Fine-grained Textual Inversion Network for Zero-Shot Composed Image Retrieval. [[Paper]](https://dl.acm.org/doi/10.1145/3626772.3657831)
 - [6] **[SIGIR'24] |** LDRE: LLM-based Divergent Reasoning and Ensemble for Zero-Shot Composed Image Retrieval. [[Paper]](https://dl.acm.org/doi/10.1145/3626772.3657740)
 - [7] **[ICML'24] |** Improve Context Understanding in Multimodal Large Language Models via Multimodal Composition Learning. [[Paper]](https://openreview.net/forum?id=Nm6jYZsBum)
-- [8] **[TMLR'24] |** CompoDiff: Versatile Composed Image Retrieval With Latent Diffusion. [[Paper]](https://openreview.net/forum?id=mKtlzW0bWc)
+- [8] **[ICML'24] |** MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions. [[Paper]](https://arxiv.org/abs/2403.19651)
+- [9] **[TMLR'24] |** CompoDiff: Versatile Composed Image Retrieval With Latent Diffusion. [[Paper]](https://openreview.net/forum?id=mKtlzW0bWc)
 
 ### 2023
 - [1] **[ICCV'23] |** Zero-shot Composed Image Retrieval with Textual Inversion. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.html)
