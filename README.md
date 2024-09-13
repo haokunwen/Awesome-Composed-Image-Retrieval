@@ -115,7 +115,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [4] **[Arxiv'24] |** Zero-shot Composed Image Retrieval Considering Query-target Relationship Leveraging Masked Image-text Pairs. [[Paper]](https://arxiv.org/abs/2406.18836)
 - [5] **[Arxiv'24] |** Training-free Zero-shot Composed Image Retrieval with Local Concept Re-ranking. [[Paper]](https://arxiv.org/abs/2312.08924)
 - [6] **[Arxiv'24] |** HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels. [[Paper]](https://arxiv.org/abs/2407.05795)
-- [7] **[Arxiv'23] |** Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2311.07622)
+- [7] **[Arxiv'24] |** Training-free Zero-shot Composed Image Retrieval via Weighted Modality Fusion and Similarity. [[Paper]](https://arxiv.org/abs/2409.04918)  
+- [8] **[Arxiv'23] |** Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2311.07622)
 
 ### 2024
 - [1] **[AAAI'24] |** Context-I2W: Mapping Images to Context-Dependent Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28324)
@@ -172,4 +173,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 ### Remote Sensing Retrieval
 - [1] **[IGARSS'24] |** Composed Image Retrieval for Remote Sensing. [[Paper]](https://arxiv.org/abs/2405.15587)
 - [2] **[TGRS'24] |** Scene Graph-Aware Hierarchical Fusion Network for Remote Sensing Image Retrieval With Text Feedback. [[Paper]](https://ieeexplore.ieee.org/document/10537211)
+
+### Survey  
+- [1] **[Arxiv'24] |** A Survey of Multimodal Composite Editing and Retrieval. [[Paper]](https://arxiv.org/abs/2409.05405)  
 
