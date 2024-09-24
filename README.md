@@ -160,6 +160,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 ### 2024
 - [1] **[AAAI'24] |** CoVR: Learning Composed Video Retrieval from Web Video Captions. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28334)
 - [2] **[CVPR'24] |** Composed Video Retrieval via Enriched Context and Discriminative Embeddings. [[Paper]](https://arxiv.org/abs/2403.16997)
+- [3] **[TPAMI'24] |** CoVR-2: Automatic Data Construction for Composed Video Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10685001)
 
 ## 8. Sketch-based CIR<a id="section8"></a>
 ### 2024
