@@ -154,13 +154,13 @@ Collections for the Composed Image Retrieval (CIR), including:
 
 ## 7. COVR<a id="section7"></a>
 ### Pre-prints
-- [1] **[Arxiv'24] |** EgoCVR: An Egocentric Benchmark for Fine-Grained Composed Video Retrieval. [[Paper]](https://arxiv.org/abs/2407.16658)
-- [2] **[Arxiv'24] |** Localizing Events in Videos with Multimodal Queries. [[Paper]](https://arxiv.org/abs/2406.10079)
+- [1] **[Arxiv'24] |** Localizing Events in Videos with Multimodal Queries. [[Paper]](https://arxiv.org/abs/2406.10079)
 
 ### 2024
 - [1] **[AAAI'24] |** CoVR: Learning Composed Video Retrieval from Web Video Captions. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28334)
 - [2] **[CVPR'24] |** Composed Video Retrieval via Enriched Context and Discriminative Embeddings. [[Paper]](https://arxiv.org/abs/2403.16997)
 - [3] **[TPAMI'24] |** CoVR-2: Automatic Data Construction for Composed Video Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10685001)
+- [4] **[ECCV'24] |** EgoCVR: An Egocentric Benchmark for Fine-Grained Composed Video Retrieval. [[Paper]](https://arxiv.org/abs/2407.16658)
 
 ## 8. Sketch-based CIR<a id="section8"></a>
 ### 2024
