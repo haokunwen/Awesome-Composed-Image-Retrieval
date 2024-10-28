@@ -9,7 +9,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 [7. Composed Video Retrieval (COVR)](#section7)    
 [8. Sketch-based CIR](#section8)    
 [9. Others](#section9)
-
+[10. Dataset statistics](#section10)
 ## 1. Attribute-based CIR<a id="section1"></a>
 ### 2021
 - [1] **[ICCV'21] |** Learning Attribute-driven Disentangled Representations for Interactive Fashion Retrieval. [[Paper]](https://ieeexplore.ieee.org/document/9711479)
@@ -184,3 +184,22 @@ Collections for the Composed Image Retrieval (CIR), including:
 ### Dataset  
 - [1] **[Arxiv'24] |** EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections. [[Paper]](https://arxiv.org/pdf/2410.01536v2)  
 
+## 10. Dataset statistics<a id="section10"></a>
+| **Dataset**                                      | **Modalities**    | **Images Scale** | **Triplets Scale** | **Type**           | **Link**                    | **Domain** |
+| ------------------------------------------------ | ----------------- | ---------------- | ------------------ | ------------------ | --------------------------- | ---------- |
+| FashionIQ                       | image+text        | ~77.7K           | ~30.1K             | Human Annotated    | [Link](https://github.com/XiaoxiaoGuo/fashion-iq) | Fashion    |
+| Shoes                       | image+text        | ~14.7K           | ~10.8K             | Human Annotated    | [Link](https://github.com/XiaoxiaoGuo/fashion-retrieval) | Fashion    |
+| Fashion200K               | image+text        | ~200K            | --                 | --                 | [Link](https://www.kaggle.com/datasets/mayukh18/fashion200k-dataset) | Fashion    |
+| MIT                       | image+text        | ~6K              | --                 | --                 | [Link](https://web.mit.edu/phillipi/Public/states_and_transformations/index.html) | Open-domain    |
+| CIRR                      | image+text        | ~21.6K           | ~36.6K             | Human Annotated    | [Link](https://cuberick-orion.github.io/CIRR/) | Open-domain    |
+| CIRCO                  | image+text        | ~1.0K            | --                 | Human Annotated    | [Link](https://github.com/miccunifi/CIRCO/tree/main) | Open-domain    |
+| CSS                           | image+text        | ~1.0K            | ~32K               | Generated          | [Link](https://github.com/google/tirg) | Open-domain    |
+| LaSCo                       | image+text        | ~121.5K          | ~389.3K            | Generated          | [Link](https://github.com/levymsn/LaSCo?tab=readme-ov-file#lasco-dataset) | Opem-domain    |
+| SynthTriplets18M              | image+text        | --               | ~18M               | Generated          | [Link](https://github.com/navervision/CompoDiff) | Open-domain    |
+| WebVid-CoVR              | video+text        | ~130.8K          | ~1.6M              | Generated          | [Link](https://imagine.enpc.fr/~ventural/covr/) | Video      |
+| ITCPR                        | image+text        | ~20K             | ~12.2K             | Human Annotated    | [Link](https://github.com/Delong-liu-bupt/Word4Per) | Person    |
+| Airplane, Tennis, and WHIRT | image+text        | ~7.7K            | ~8.7K              | Human Annotated    | - |    Remote Sensing  |
+| PATTERNCOM               | image+text        | ~30K             | ~21K               | Generated          | [Link](https://github.com/billpsomas/rscir) | Remote Sensing   |
+| FS-COCO               | sketch+image+text | ~10K             | ~10K               | Human Annotated    | [Link](https://github.com/pinakinathc/fscoco) | Sketch        |
+| SketchyCOCO             | sketch+image+text | ~14K             | ~14K               | Automatic matching | [Link](https://github.com/sysu-imsl/SketchyCOCO) | Sketch |
+| CSTBIR                    | sketch+image+text | ~108K            | ~2M                | Automatic matching | [Link](https://vl2g.github.io/projects/cstbir/) |  Sketch       |
