@@ -183,7 +183,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [1] **[Arxiv'24] |** A Survey of Multimodal Composite Editing and Retrieval. [[Paper]](https://arxiv.org/abs/2409.05405)
 
 ### Dataset  
-- [1] **[Arxiv'24] |** EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections. [[Paper]](https://arxiv.org/pdf/2410.01536v2)  
+- [1] **[Arxiv'24] |** EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections. [[Paper]](https://arxiv.org/pdf/2410.01536v2)
+- [2] **[Arxiv'24] |** ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval. [[Paper]](https://arxiv.org/pdf/2410.18715)
 
 ## 10. Dataset statistics<a id="section10"></a>
 | **Dataset**                                      | **Modalities**    | **Images Scale** | **Triplets Scale** | **Type**           | **Link**                    | **Domain** |
