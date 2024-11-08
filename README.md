@@ -195,7 +195,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 | Fashion200K               | Image+Text        | ~200K            | --                 | --                 | [Link](https://www.kaggle.com/datasets/mayukh18/fashion200k-dataset) | Fashion    |
 | MIT                       | Image+Text        | ~6K              | --                 | --                 | [Link](https://web.mit.edu/phillipi/Public/states_and_transformations/index.html) | Open-domain    |
 | CIRR                      | Image+Text        | ~21.6K           | ~36.6K             | Human Annotated    | [Link](https://cuberick-orion.github.io/CIRR/) | Open-domain    |
-| CIRCO                  | Image+Text        | --           | ~1.0K                  | Human Annotated    | [Link](https://github.com/miccunifi/CIRCO/tree/main) | Open-domain    |
+| CIRCO                  | Image+Text        | ~12.3K          | ~1.0K                  | Human Annotated    | [Link](https://github.com/miccunifi/CIRCO/tree/main) | Open-domain    |
 | CSS                           | Image+Text        | ~1.0K            | ~32K               | Generated          | [Link](https://github.com/google/tirg) | Open-domain    |
 | LaSCo                       | Image+Text        | ~121.5K          | ~389.3K            | Generated          | [Link](https://github.com/levymsn/LaSCo?tab=readme-ov-file#lasco-dataset) | Open-domain    |
 | SynthTriplets18M              | Image+Text        | --               | ~18M               | Generated          | [Link](https://github.com/navervision/CompoDiff) | Open-domain    |
