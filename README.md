@@ -112,7 +112,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 
 ## 4. Zero-Shot CIR<a id="section4"></a>
 ### Pre-prints
-- [1] **[Arxiv'24] |** Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2405.00571)
+- [1] **[Arxiv'24] |** MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2410.23736)
 - [2] **[Arxiv'24] |** iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2405.02951)
 - [3] **[Arxiv'24] |** Reducing Task Discrepancy of Text Encoders for Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2406.09188)
 - [4] **[Arxiv'24] |** Zero-shot Composed Image Retrieval Considering Query-target Relationship Leveraging Masked Image-text Pairs. [[Paper]](https://arxiv.org/abs/2406.18836)
@@ -132,6 +132,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [8] **[ICML'24] |** MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions. [[Paper]](https://arxiv.org/abs/2403.19651)
 - [9] **[TMLR'24] |** CompoDiff: Versatile Composed Image Retrieval With Latent Diffusion. [[Paper]](https://openreview.net/forum?id=mKtlzW0bWc)
 - [10] **[ACM MM'24] |**  Semantic Editing Increment Benefits Zero-Shot Composed Image Retrieval. [[Paper]](https://openreview.net/pdf?id=rkCYgXfj9P)
+- [11] **[ECCV'24] |** Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval. [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02904.pdf)
 
 ### 2023
 - [1] **[ICCV'23] |** Zero-shot Composed Image Retrieval with Textual Inversion. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.html)
