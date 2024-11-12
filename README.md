@@ -150,6 +150,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 ### 2023
 - [1] **[ICCV'23] |** FashionNTM: Multi-turn Fashion Image Retrieval via Cascaded Memory. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Pal_FashionNTM_Multi-turn_Fashion_Image_Retrieval_via_Cascaded_Memory_ICCV_2023_paper.html)
 - [2] **[MM'23] |** Conversational Composed Retrieval with Iterative Sequence Refinement. [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3611885)
+- [3] **[MMW'23] |** Fashion-GPT: Integrating LLMs with Fashion Retrieval System. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3607827.3616844)
 
 ### 2021
 - [1] **[SIGIR'21] |** Conversational Fashion Image Retrieval via Multiturn Natural Language Feedback. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3462881)
