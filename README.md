@@ -54,6 +54,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [19] **[TIP'24] |** Multimodal Composition Example Mining for Composed Query Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10418785)
 - [20] **[TOIS'24] |** LLM-enhanced Composed Image Retrieval: An Intent Uncertainty-aware Linguistic-Visual Dual Channel Matching Model. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3699715)
 - [21] **[ACM MM'24] |** Semantic Distillation from Neighborhood for Composed Image Retrieval. [[Paper]](https://openreview.net/pdf?id=MAgFiw3yHG)
+- [22] **[NeurIPS'24] |** Easy Regional Contrastive Learning of Expressive Fashion Representations. [[Paper]](https://openreview.net/forum?id=bCL9U2X9Jg)
 
 ### 2023
 - [1] **[TOMM'23] |** AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3584703)
