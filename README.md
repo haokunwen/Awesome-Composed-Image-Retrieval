@@ -122,8 +122,9 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [6] **[Arxiv'24] |** HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels. [[Paper]](https://arxiv.org/abs/2407.05795)
 - [7] **[Arxiv'24] |** Training-free Zero-shot Composed Image Retrieval via Weighted Modality Fusion and Similarity. [[Paper]](https://arxiv.org/abs/2409.04918)  
 - [8] **[Arxiv'24] |** Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy. [[Paper]](https://arxiv.org/pdf/2411.16752)
-- [9] **[Arxiv'24] |** Composed Image Retrieval for Training-Free Domain Conversion. [[Paper]](https://arxiv.org/pdf/2412.03297)  
-- [10] **[Arxiv'23] |** Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2311.07622)
+- [9] **[Arxiv'24] |** Composed Image Retrieval for Training-Free Domain Conversion. [[Paper]](https://arxiv.org/pdf/2412.03297)
+- [10] **[Arxiv'24] |** Compositional Image Retrieval via Instruction-Aware Contrastive Learning. [[Paper]](https://arxiv.org/pdf/2412.05756)  
+- [11] **[Arxiv'23] |** Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2311.07622)
 
 ### 2024
 - [1] **[AAAI'24] |** Context-I2W: Mapping Images to Context-Dependent Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28324)
