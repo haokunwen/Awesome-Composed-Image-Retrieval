@@ -128,8 +128,9 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [8] **[Arxiv'24] |** Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy. [[Paper]](https://arxiv.org/pdf/2411.16752)
 - [9] **[Arxiv'24] |** Composed Image Retrieval for Training-Free Domain Conversion. [[Paper]](https://arxiv.org/pdf/2412.03297)
 - [10] **[Arxiv'24] |** Compositional Image Retrieval via Instruction-Aware Contrastive Learning. [[Paper]](https://arxiv.org/pdf/2412.05756)
-- [11] **[Arxiv'24] |** Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2412.11077)  
-- [12] **[Arxiv'23] |** Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2311.07622)
+- [11] **[Arxiv'24] |** Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2412.11077)
+- [12] **[Arxiv'24] |** MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval. [[Paper]](https://arxiv.org/pdf/2412.14475)    
+- [13] **[Arxiv'23] |** Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2311.07622)
 
 ### 2024
 - [1] **[AAAI'24] |** Context-I2W: Mapping Images to Context-Dependent Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28324)
