@@ -134,6 +134,9 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [14] **[Arxiv'24] |** Denoise-I2W: Mapping Images to Denoising Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2410.17393)  
 - [15] **[Arxiv'23] |** Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2311.07622)
 
+### 2025   
+- [1] **[COLING'25] |** MLLM-I2W: Harnessing Multimodal Large Language Model for  Zero-Shot Composed Image Retrieval. [[Paper]](https://aclanthology.org/2025.coling-main.125.pdf)
+
 ### 2024
 - [1] **[AAAI'24] |** Context-I2W: Mapping Images to Context-Dependent Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28324)
 - [2] **[ICLR'24] |** Vision-by-Language for Training-Free Compositional Image Retrieval. [[Paper]](https://openreview.net/forum?id=EDPxCjXzSb)
