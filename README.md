@@ -26,11 +26,10 @@ Collections for the Composed Image Retrieval (CIR), including:
 ## 2. Supervised CIR<a id="section2"></a>
 ### Pre-prints
 - [1] **[Arxiv'24] |** VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval. [[Paper]](https://arxiv.org/abs/2406.04292)
-- [2] **[Arxiv'24] |** Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives. [[Paper]](https://arxiv.org/abs/2404.11317)
-- [3] **[Arxiv'23] |** Relieving Triplet Ambiguity: Consensus Network for Language-Guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2306.02092)  
-- [4] **[Arxiv'23] |** Ranking-aware Uncertainty for Text-guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.08131)  
-- [5] **[Arxiv'23] |** Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.16649)  
-- [6] **[Arxiv'23] |** VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering. [[Paper]](https://arxiv.org/abs/2312.12273)
+- [2] **[Arxiv'23] |** Relieving Triplet Ambiguity: Consensus Network for Language-Guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2306.02092)  
+- [3] **[Arxiv'23] |** Ranking-aware Uncertainty for Text-guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.08131)  
+- [4] **[Arxiv'23] |** Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.16649)  
+- [5] **[Arxiv'23] |** VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering. [[Paper]](https://arxiv.org/abs/2312.12273)
 
 ### 2025
 - [1] **[AAAI'25] |** Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2412.11087)
@@ -58,8 +57,9 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [19] **[TIP'24] |** Multimodal Composition Example Mining for Composed Query Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10418785)
 - [20] **[TOIS'24] |** LLM-enhanced Composed Image Retrieval: An Intent Uncertainty-aware Linguistic-Visual Dual Channel Matching Model. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3699715)
 - [21] **[ACM MM'24] |** Semantic Distillation from Neighborhood for Composed Image Retrieval. [[Paper]](https://openreview.net/pdf?id=MAgFiw3yHG)
-- [22] **[NeurIPS'24] |** Easy Regional Contrastive Learning of Expressive Fashion Representations. [[Paper]](https://openreview.net/forum?id=bCL9U2X9Jg)
-- [23] **[ACL'24] |** UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation. [[Paper]](https://arxiv.org/pdf/2408.11305)
+- [22] **[ACM MM'24] |** Improving Composed Image Retrieval via Contrastive Learning with Scaling Positives and Negatives. [[Paper]](dl.acm.org/doi/10.1145/3664647.3680808)
+- [23] **[NeurIPS'24] |** Easy Regional Contrastive Learning of Expressive Fashion Representations. [[Paper]](https://openreview.net/forum?id=bCL9U2X9Jg)
+- [24] **[ACL'24] |** UniFashion: A Unified Vision-Language Model for Multimodal Fashion Retrieval and Generation. [[Paper]](https://arxiv.org/pdf/2408.11305)
 
 ### 2023
 - [1] **[TOMM'23] |** AMC: Adaptive Multi-expert Collaborative Network for Text-guided Image Retrieval. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3584703)
