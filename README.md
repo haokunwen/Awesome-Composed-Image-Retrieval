@@ -180,6 +180,9 @@ Collections for the Composed Image Retrieval (CIR), including:
 ### Pre-prints
 - [1] **[Arxiv'24] |** Localizing Events in Videos with Multimodal Queries. [[Paper]](https://arxiv.org/abs/2406.10079)
 
+### 2025
+- [1] **[ICLR'25] |** Learning Fine-Grained Representations through Textual Token Disentanglement in Composed Video Retrieval. [[Paper]](https://openreview.net/forum?id=wGa2plE8ka)  
+
 ### 2024
 - [1] **[AAAI'24] |** CoVR: Learning Composed Video Retrieval from Web Video Captions. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28334)
 - [2] **[CVPR'24] |** Composed Video Retrieval via Enriched Context and Discriminative Embeddings. [[Paper]](https://arxiv.org/abs/2403.16997)
