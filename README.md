@@ -211,7 +211,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [2] **[TGRS'24] |** Scene Graph-Aware Hierarchical Fusion Network for Remote Sensing Image Retrieval With Text Feedback. [[Paper]](https://ieeexplore.ieee.org/document/10537211)
 
 ### Survey  
-- [1] **[Arxiv'25] |** A Comprehensive Survey on Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2502.18495)
+- [1] 🎯 **[Arxiv'25] |** **A Comprehensive Survey on Composed Image Retrieval.** [[Paper]](https://arxiv.org/pdf/2502.18495)
 - [2] **[Arxiv'25] |** Composed Multi-modal Retrieval: A Survey of Approaches and Applications. [[Paper]](https://arxiv.org/pdf/2503.01334)
 - [3] **[Applied Intelligence'25] |** Composed Image Retrieval: A Survey on Recent Research and Development. [[Paper]](https://link.springer.com/article/10.1007/s10489-025-06372-x)  
 - [4] **[Arxiv'24] |** A Survey of Multimodal Composite Editing and Retrieval. [[Paper]](https://arxiv.org/abs/2409.05405)
