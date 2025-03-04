@@ -1,6 +1,5 @@
 # Awesome-CIR
 Collections for the Composed Image Retrieval (CIR), including:  
-
 [1. Attribute-based CIR](#section1)  
 [2. Supervised CIR](#section2)    
 [3. Few-shot CIR](#section3)    
