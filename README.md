@@ -10,7 +10,6 @@ Collections for the Composed Image Retrieval (CIR), including:
 [8. Sketch-based CIR](#section8)    
 [9. Others](#section9)  
 [10. Dataset statistics](#section10)    
-
 ---
 
 ✨ **Feb. 2025 | Excited to announce our latest work:** ✨    
