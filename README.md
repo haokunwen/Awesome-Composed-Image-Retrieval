@@ -9,7 +9,9 @@ Collections for the Composed Image Retrieval (CIR), including:
 [7. Composed Video Retrieval (COVR)](#section7)    
 [8. Sketch-based CIR](#section8)    
 [9. Others](#section9)  
-[10. Dataset statistics](#section10)
+[10. Dataset statistics](#section10)    
+
+🚀 **We're thrilled to unveil our latest work** —  **A Comprehensive Survey on Composed Image Retrieval. [[Arxiv]](https://arxiv.org/abs/2502.18495)** that dives deep into the rapidly evolving field of **Composed Image Retrieval (CIR)**!   
 
 ## 1. Attribute-based CIR<a id="section1"></a>
 ### 2021
