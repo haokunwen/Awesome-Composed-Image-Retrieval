@@ -16,7 +16,6 @@ Collections for the Composed Image Retrieval (CIR), including:
 📑 **"A Comprehensive Survey on Composed Image Retrieval" is now available on [[arXiv]](https://arxiv.org/abs/2502.18495)**.     
 ✅ Systematic analysis of 120+ seminal papers (2017-2024)             
 ✅ Unified evaluation spanning ~10 benchmark datasets        
----
 
 ## 1. Attribute-based CIR<a id="section1"></a>
 ### 2021
