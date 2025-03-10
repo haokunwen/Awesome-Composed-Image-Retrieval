@@ -40,7 +40,11 @@ Collections for the Composed Image Retrieval (CIR), including:
 
 ### 2025
 - [1] **[AAAI'25] |** Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2412.11087)
-- [2] **[AAAI'25] |** ENCODER: Entity Mining and Modification Relation Binding for Composed Image Retrieval.  
+- [2] **[AAAI'25] |** ENCODER: Entity Mining and Modification Relation Binding for Composed Image Retrieval.
+- [3] **[CVPR'25] |** CCIN: Compositional Conflict Identification and Neutralization for Composed Image Retrieval.
+- [4] **[CVPR'25] |** ConText-CIR: Learning from Concepts in Text for Composed Image Retrieval.
+- [5] **[CVPR'25] |** CoLLM: A Large Language Model for Composed Image Retrieval.
+- [6] **[CVPR'25] |** Learning with Noisy Triplet Correspondence for Composed Image Retrieval.  
 
 ### 2024
 - [1] **[WACV'24] |** Bi-directional Training for Composed Image Retrieval via Text Prompt Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10484044)  
@@ -134,16 +138,18 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [7] **[Arxiv'24] |** Training-free Zero-shot Composed Image Retrieval with Local Concept Re-ranking. [[Paper]](https://arxiv.org/abs/2312.08924)
 - [8] **[Arxiv'24] |** HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels. [[Paper]](https://arxiv.org/abs/2407.05795)
 - [9] **[Arxiv'24] |** Training-free Zero-shot Composed Image Retrieval via Weighted Modality Fusion and Similarity. [[Paper]](https://arxiv.org/abs/2409.04918)  
-- [10] **[Arxiv'24] |** Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy. [[Paper]](https://arxiv.org/pdf/2411.16752)
-- [11] **[Arxiv'24] |** Composed Image Retrieval for Training-Free Domain Conversion. [[Paper]](https://arxiv.org/pdf/2412.03297)
-- [12] **[Arxiv'24] |** Compositional Image Retrieval via Instruction-Aware Contrastive Learning. [[Paper]](https://arxiv.org/pdf/2412.05756)
-- [13] **[Arxiv'24] |** Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2412.11077)
-- [14] **[Arxiv'24] |** MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval. [[Paper]](https://arxiv.org/pdf/2412.14475)
-- [15] **[Arxiv'24] |** Denoise-I2W: Mapping Images to Denoising Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2410.17393)  
-- [16] **[Arxiv'23] |** Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2311.07622)
+- [10] **[Arxiv'24] |** Composed Image Retrieval for Training-Free Domain Conversion. [[Paper]](https://arxiv.org/pdf/2412.03297)
+- [11] **[Arxiv'24] |** Compositional Image Retrieval via Instruction-Aware Contrastive Learning. [[Paper]](https://arxiv.org/pdf/2412.05756)
+- [12] **[Arxiv'24] |** MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval. [[Paper]](https://arxiv.org/pdf/2412.14475)
+- [13] **[Arxiv'24] |** Denoise-I2W: Mapping Images to Denoising Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2410.17393)  
+- [14] **[Arxiv'23] |** Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2311.07622)
 
 ### 2025   
 - [1] **[COLING'25] |** MLLM-I2W: Harnessing Multimodal Large Language Model for  Zero-Shot Composed Image Retrieval. [[Paper]](https://aclanthology.org/2025.coling-main.125.pdf)
+- [2] **[CVPR'25] |** Generative Zero-Shot Composed Image Retrieval.
+- [3] **[CVPR'25] |** Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval.
+- [4] **[CVPR'25] |** Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2412.11077)
+- [5] **[CVPR'25] |** Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy. [[Paper]](https://arxiv.org/pdf/2411.16752)  
 
 ### 2024
 - [1] **[AAAI'24] |** Context-I2W: Mapping Images to Context-Dependent Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28324)
