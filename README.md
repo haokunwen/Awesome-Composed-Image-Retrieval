@@ -43,8 +43,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [2] **[AAAI'25] |** ENCODER: Entity Mining and Modification Relation Binding for Composed Image Retrieval.
 - [3] **[CVPR'25] |** CCIN: Compositional Conflict Identification and Neutralization for Composed Image Retrieval.
 - [4] **[CVPR'25] |** ConText-CIR: Learning from Concepts in Text for Composed Image Retrieval.
-- [5] **[CVPR'25] |** CoLLM: A Large Language Model for Composed Image Retrieval.
-- [6] **[CVPR'25] |** Learning with Noisy Triplet Correspondence for Composed Image Retrieval.
+- [5] **[CVPR'25] |** CoLLM: A Large Language Model for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2503.19910)
+- [6] **[CVPR'25] |** Learning with Noisy Triplet Correspondence for Composed Image Retrieval. 
 - [7] **[ICASSP'25] |** MEDIAN: Adaptive Intermediate-grained Aggregation Network for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10890642)    
 - [8] **[ICASSP'25] |** PAIR: Complementarity-guided Disentanglement for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10888153)
 - [9] **[ICASSP'25] |** NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10888719)    
