@@ -251,3 +251,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 | FS-COCO               | Sketch+Image+Text | ~10K             | ~10K               | Human Annotated    | [Link](https://github.com/pinakinathc/fscoco) | Sketch        |
 | SketchyCOCO             | Sketch+Image+Text | ~14K             | ~14K               | Automatic matching | [Link](https://github.com/sysu-imsl/SketchyCOCO) | Sketch |
 | CSTBIR                    | Sketch+Image+Text | ~108K            | ~2M                | Automatic matching | [Link](https://vl2g.github.io/projects/cstbir/) |  Sketch       |
+| ImageNet-R                |Image+Cart+Toy+Orig+Sculpt | ~17.9K | -- | -- | [Link](https://people.eecs.berkeley.edu/~hendrycks/imagenet-r.tar) | Domain Conversion |
+| Mini-DomainNet            |Clip+Paint+Image+Sketch | ~137K | -- | -- | [Link](https://github.com/NikosEfth/freedom) | Domain Conversion |
+| NICO++                |Aut+Dim+Grass+Out+Rock+Water | ~80K | -- | -- | [Link](https://github.com/NikosEfth/freedom) | Domain Conversion |
+| LTLL                |Today+Archive | 488 | -- | -- | [Link](https://github.com/NikosEfth/freedom) | Instance Level Domain Conversion |
