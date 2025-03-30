@@ -154,7 +154,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [2] **[CVPR'25] |** Generative Zero-Shot Composed Image Retrieval.
 - [3] **[CVPR'25] |** Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval.
 - [4] **[CVPR'25] |** Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2412.11077)
-- [5] **[CVPR'25] |** Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy. [[Paper]](https://arxiv.org/pdf/2411.16752)  
+- [5] **[CVPR'25] |** Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy. [[Paper]](https://arxiv.org/pdf/2411.16752)
+- [6] **[WACV'25] |** Composed Image Retrieval for Training-Free Domain Conversion. [[Paper]](https://arxiv.org/abs/2412.03297)  
 
 ### 2024
 - [1] **[AAAI'24] |** Context-I2W: Mapping Images to Context-Dependent Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28324)
@@ -250,3 +251,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 | FS-COCO               | Sketch+Image+Text | ~10K             | ~10K               | Human Annotated    | [Link](https://github.com/pinakinathc/fscoco) | Sketch        |
 | SketchyCOCO             | Sketch+Image+Text | ~14K             | ~14K               | Automatic matching | [Link](https://github.com/sysu-imsl/SketchyCOCO) | Sketch |
 | CSTBIR                    | Sketch+Image+Text | ~108K            | ~2M                | Automatic matching | [Link](https://vl2g.github.io/projects/cstbir/) |  Sketch       |
+| ImageNet-R                |Image+Cart+Toy+Orig+Sculpt | ~17.9K | -- | -- | [Link](https://people.eecs.berkeley.edu/~hendrycks/imagenet-r.tar) | Domain Conversion |
+| Mini-DomainNet            |Clip+Paint+Image+Sketch | ~137K | -- | -- | [Link](https://github.com/NikosEfth/freedom) | Domain Conversion |
+| NICO++                |Aut+Dim+Grass+Out+Rock+Water | ~80K | -- | -- | [Link](https://github.com/NikosEfth/freedom) | Domain Conversion |
+| LTLL                |Today+Archive | 488 | -- | -- | [Link](https://github.com/NikosEfth/freedom) | Instance Level Domain Conversion |
