@@ -187,7 +187,9 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [1] **[Arxiv'24] |** Leveraging Large Language Models for Multimodal Search. [[Paper]](https://arxiv.org/html/2404.15790v1)
 
 ### 2025  
-- [1] **[ICLR'25] |** MAI: A Multi-Turn Aggregation-Iteration Model for Composed Image Retrieval. [[Paper]](https://openreview.net/pdf?id=gXyWbl71n1)  
+- [1] **[ICLR'25] |** MAI: A Multi-Turn Aggregation-Iteration Model for Composed Image Retrieval. [[Paper]](https://openreview.net/pdf?id=gXyWbl71n1)
+- [2] **[WWW'25] |** ImageScope: Unifying Language-Guided Image Retrieval via Large Multimodal Model Collective Reasoning. [[Paper]](https://arxiv.org/abs/2503.10166) [[Code]](https://github.com/pengfei-luo/ImageScope)
+
 ### 2023
 - [1] **[ICCV'23] |** FashionNTM: Multi-turn Fashion Image Retrieval via Cascaded Memory. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Pal_FashionNTM_Multi-turn_Fashion_Image_Retrieval_via_Cascaded_Memory_ICCV_2023_paper.html)
 - [2] **[MM'23] |** Conversational Composed Retrieval with Iterative Sequence Refinement. [[Paper]](https://dl.acm.org/doi/10.1145/3581783.3611885)
