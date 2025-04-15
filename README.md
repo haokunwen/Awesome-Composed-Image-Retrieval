@@ -242,13 +242,16 @@ Collections for the Composed Image Retrieval (CIR), including:
 | **Dataset**                                      | **Modalities**    | **Images Scale** | **Triplets Scale** | **Type**           | **Link**                    | **Domain** |
 | ------------------------------------------------ | ----------------- | ---------------- | ------------------ | ------------------ | --------------------------- | ---------- |
 | FashionIQ                       | Image+Text        | ~77.7K           | ~30.1K             | Human Annotated    | [Link](https://github.com/XiaoxiaoGuo/fashion-iq) | Fashion    |
+| Refined-FashionIQ                       | Image+Text        | ~8.1K           | ~5.5K             | Automatic Refined    | [Link](https://huggingface.co/datasets/chuonghm/Refined-FashionIQ) | Fashion    |
 | Shoes                       | Image+Text        | ~14.7K           | ~10.8K             | Human Annotated    | [Link](https://github.com/XiaoxiaoGuo/fashion-retrieval) | Fashion    |
 | Fashion200K               | Image+Text        | ~200K            | --                 | --                 | [Link](https://www.kaggle.com/datasets/mayukh18/fashion200k-dataset) | Fashion    |
 | MIT                       | Image+Text        | ~6K              | --                 | --                 | [Link](https://web.mit.edu/phillipi/Public/states_and_transformations/index.html) | Open-domain    |
 | CIRR                      | Image+Text        | ~21.6K           | ~36.6K             | Human Annotated    | [Link](https://cuberick-orion.github.io/CIRR/) | Open-domain    |
+| Refined-CIRR                      | Image+Text        | ~2.2K           | ~3.9K             | Automatic Refined    | [Link](https://huggingface.co/datasets/chuonghm/Refined-CIRR) | Open-domain    |
 | CIRCO                  | Image+Text        | ~12.3K          | ~1.0K                  | Human Annotated    | [Link](https://github.com/miccunifi/CIRCO/tree/main) | Open-domain    |
 | CSS                           | Image+Text        | ~1.0K            | ~32K               | Generated          | [Link](https://github.com/google/tirg) | Open-domain    |
 | LaSCo                       | Image+Text        | ~121.5K          | ~389.3K            | Generated          | [Link](https://github.com/levymsn/LaSCo?tab=readme-ov-file#lasco-dataset) | Open-domain    |
+| MT-CIR                       | Image+Text        | ~423K          | ~17.7M            | Generated          | [Link](https://huggingface.co/datasets/chuonghm/MT-CIR) | Open-domain    |
 | SynthTriplets18M              | Image+Text        | --               | ~18M               | Generated          | [Link](https://github.com/navervision/CompoDiff) | Open-domain    |
 | WebVid-CoVR              | Video+Text        | ~130.8K          | ~1.6M              | Generated          | [Link](https://imagine.enpc.fr/~ventural/covr/) | Video      |
 | ITCPR                        | Image+Text        | ~20K             | ~12.2K             | Human Annotated    | [Link](https://github.com/Delong-liu-bupt/Word4Per) | Person    |
