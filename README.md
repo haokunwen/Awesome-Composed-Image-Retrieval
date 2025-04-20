@@ -32,13 +32,14 @@ Collections for the Composed Image Retrieval (CIR), including:
 
 ## 2. Supervised CIR<a id="section2"></a>
 ### Pre-prints
-- [1] **[Arxiv'25] |**  Scale Up Composed Image Retrieval Learning via Modification Text Generation. [[Paper]](https://arxiv.org/pdf/2504.05316)    
-- [2] **[Arxiv'25] |** FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2503.21309)    
-- [3] **[Arxiv'24] |** VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval. [[Paper]](https://arxiv.org/abs/2406.04292)
-- [4] **[Arxiv'23] |** Relieving Triplet Ambiguity: Consensus Network for Language-Guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2306.02092)  
-- [5] **[Arxiv'23] |** Ranking-aware Uncertainty for Text-guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.08131)  
-- [6] **[Arxiv'23] |** Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.16649)  
-- [7] **[Arxiv'23] |** VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering. [[Paper]](https://arxiv.org/abs/2312.12273)
+- [1] **[Arxiv'25] |** TMCIR: Token Merge Benefits Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2504.10995)    
+- [2] **[Arxiv'25] |** Scale Up Composed Image Retrieval Learning via Modification Text Generation. [[Paper]](https://arxiv.org/pdf/2504.05316)    
+- [3] **[Arxiv'25] |** FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2503.21309)    
+- [4] **[Arxiv'24] |** VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval. [[Paper]](https://arxiv.org/abs/2406.04292)
+- [5] **[Arxiv'23] |** Relieving Triplet Ambiguity: Consensus Network for Language-Guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2306.02092)  
+- [6] **[Arxiv'23] |** Ranking-aware Uncertainty for Text-guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.08131)  
+- [7] **[Arxiv'23] |** Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.16649)  
+- [8] **[Arxiv'23] |** VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering. [[Paper]](https://arxiv.org/abs/2312.12273)
 
 ### 2025
 - [1] **[AAAI'25] |** Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2412.11087)
