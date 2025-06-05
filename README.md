@@ -159,8 +159,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 
 ### 2025   
 - [1] **[COLING'25] |** MLLM-I2W: Harnessing Multimodal Large Language Model for  Zero-Shot Composed Image Retrieval. [[Paper]](https://aclanthology.org/2025.coling-main.125.pdf)
-- [2] **[CVPR'25] |** Generative Zero-Shot Composed Image Retrieval.
-- [3] **[CVPR'25] |** Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval.
+- [2] **[CVPR'25] |** Generative Zero-Shot Composed Image Retrieval.[[Paper]](https://hal.cse.msu.edu/assets/pdfs/papers/2025-cvpr-cig-generative-zero-shot-composed-image-retrieval.pdf)
+- [3] **[CVPR'25] |** Missing Target-Relevant Information Prediction with World Model for Accurate Zero-Shot Composed Image Retrieval.[[Paper]](https://arxiv.org/pdf/2503.17109?)
 - [4] **[CVPR'25] |** Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2412.11077)
 - [5] **[CVPR'25] |** Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy. [[Paper]](https://arxiv.org/pdf/2411.16752)   
 - [6] **[WACV'25] |** Composed Image Retrieval for Training-Free Domain Conversion. [[Paper]](https://arxiv.org/abs/2412.03297)  
