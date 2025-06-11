@@ -206,6 +206,9 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [1] **[NeruIPS'18] |** Dialog-based interactive image retrieval. [[Paper]](https://dl.acm.org/doi/10.5555/3326943.3327006)
 
 ## 7. COVR<a id="section7"></a>
+## Pre-prints
+- [1] **[Arxiv'25] |** From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos. [[Paper]](https://arxiv.org/pdf/2506.05274)    
+
 ### 2025
 - [1] **[CVPR'25] |** Localizing Events in Videos with Multimodal Queries. [[Paper]](https://arxiv.org/abs/2406.10079)
 - [2] **[ICLR'25] |** Learning Fine-Grained Representations through Textual Token Disentanglement in Composed Video Retrieval. [[Paper]](https://openreview.net/forum?id=wGa2plE8ka)  
