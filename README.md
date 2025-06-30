@@ -176,6 +176,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [9] **[TMLR'24] |** CompoDiff: Versatile Composed Image Retrieval With Latent Diffusion. [[Paper]](https://openreview.net/forum?id=mKtlzW0bWc)
 - [10] **[ACM MM'24] |**  Semantic Editing Increment Benefits Zero-Shot Composed Image Retrieval. [[Paper]](https://openreview.net/pdf?id=rkCYgXfj9P)
 - [11] **[ECCV'24] |** Spherical Linear Interpolation and Text-Anchoring for Zero-shot Composed Image Retrieval. [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02904.pdf)
+- [12] **[ACML'24] |** Prompting Vision-Language Fusion for Zero-Shot Composed Image Retrieval. [[Paper]](https://openreview.net/forum?id=8NM3qmWjkt)
 
 ### 2023
 - [1] **[ICCV'23] |** Zero-shot Composed Image Retrieval with Textual Inversion. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Baldrati_Zero-Shot_Composed_Image_Retrieval_with_Textual_Inversion_ICCV_2023_paper.html)
