@@ -213,7 +213,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 
 ### 2025
 - [1] **[CVPR'25] |** Localizing Events in Videos with Multimodal Queries. [[Paper]](https://arxiv.org/abs/2406.10079)
-- [2] **[ICLR'25] |** Learning Fine-Grained Representations through Textual Token Disentanglement in Composed Video Retrieval. [[Paper]](https://openreview.net/forum?id=wGa2plE8ka)  
+- [2] **[ICLR'25] |** Learning Fine-Grained Representations through Textual Token Disentanglement in Composed Video Retrieval. [[Paper]](https://openreview.net/forum?id=wGa2plE8ka)
+- [3] **[ACM MM'25] |** HUD: Hierarchical Uncertainty-Aware Disambiguation Network for Composed Video Retrieval.    
 
 ### 2024
 - [1] **[AAAI'24] |** CoVR: Learning Composed Video Retrieval from Web Video Captions. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28334)
