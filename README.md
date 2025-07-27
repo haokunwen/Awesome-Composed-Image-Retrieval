@@ -45,7 +45,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 ### 2025
 - [1] **[AAAI'25] |** Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2412.11087)
 - [2] **[AAAI'25] |** ENCODER: Entity Mining and Modification Relation Binding for Composed Image Retrieval.[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32541/34696)
-- [3] **[CVPR'25] |** CCIN: Compositional Conflict Identification and Neutralization for Composed Image Retrieval.[[Paper]](https://www.researchgate.net/profile/Jian-Zhao-48/publication/390113383_CCIN_Compositional_Conflict_Identification_and_Neutralization_for_Composed_Image_Retrieval/links/67e0aaa83ad6d174c4ba8412/CCIN-Compositional-Conflict-Identification-and-Neutralization-for-Composed-Image-Retrieval.pdf)
+- [3] **[CVPR'25] |** CCIN: Compositional Conflict Identification and Neutralization for Composed Image Retrieval. [[Paper]](https://www.researchgate.net/profile/Jian-Zhao-48/publication/390113383_CCIN_Compositional_Conflict_Identification_and_Neutralization_for_Composed_Image_Retrieval/links/67e0aaa83ad6d174c4ba8412/CCIN-Compositional-Conflict-Identification-and-Neutralization-for-Composed-Image-Retrieval.pdf)
 - [4] **[CVPR'25] |** ConText-CIR: Learning from Concepts in Text for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2505.20764)    
 - [5] **[CVPR'25] |** CoLLM: A Large Language Model for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2503.19910)
 - [6] **[CVPR'25] |** Learning with Noisy Triplet Correspondence for Composed Image Retrieval.     
@@ -53,7 +53,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [8] **[ICASSP'25] |** PAIR: Complementarity-guided Disentanglement for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10888153)    
 - [9] **[ICASSP'25] |** NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10888719)    
 - [10] **[ICCV'25] |** Multi-Schema Proximity Network for Composed Image Retrieval. [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/1574)    
-- [11] **[ICCV'25] |** MA-CIR: A Multimodal Arithmetic Benchmark for Composed Image Retrieval. [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/2532)    
+- [11] **[ICCV'25] |** MA-CIR: A Multimodal Arithmetic Benchmark for Composed Image Retrieval. [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/2532)
+- [12] **[ACL'25] |** Modeling Uncertainty in Composed Image Retrieval via Probabilistic Embeddings. [[Paper]](https://aclanthology.org/2025.acl-long.61.pdf)    
 
 ### 2024
 - [1] **[WACV'24] |** Bi-directional Training for Composed Image Retrieval via Text Prompt Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10484044)  
