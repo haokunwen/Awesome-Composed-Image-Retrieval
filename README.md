@@ -164,7 +164,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [4] **[CVPR'25] |** Reason-before-Retrieve: One-Stage Reflective Chain-of-Thoughts for Training-Free Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2412.11077)
 - [5] **[CVPR'25] |** Imagine and Seek: Improving Composed Image Retrieval with an Imagined Proxy. [[Paper]](https://arxiv.org/pdf/2411.16752)   
 - [6] **[WACV'25] |** Composed Image Retrieval for Training-Free Domain Conversion. [[Paper]](https://arxiv.org/abs/2412.03297)
-- [7] **[SIGIR'25] |** Rethinking Pseudo Word Learning in Zero-Shot Composed Image Retrieval: From an Object-Aware Perspective.
+- [7] **[SIGIR'25] |** Rethinking Pseudo Word Learning in Zero-Shot Composed Image Retrieval: From an Object-Aware Perspective. [[Paper]](https://dl.acm.org/doi/epdf/10.1145/3726302.3730074)    
 - [8] **[ICCV'25] |** CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2502.20826)    
 - [9] **[ICCV'25] |** Hierarchy-Aware Pseudo Word Learning with Text Adaptation for Zero-Shot Composed Image Retrieval. [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/336)
 - [10] **[ICCV'25] |** An Efficient Post-hoc Framework for Reducing Task Discrepancy of Text Encoders for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2406.09188)
