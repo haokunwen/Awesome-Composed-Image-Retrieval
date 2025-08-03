@@ -54,7 +54,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [9] **[ICASSP'25] |** NCL-CIR: Noise-aware Contrastive Learning for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10888719)    
 - [10] **[ICCV'25] |** Multi-Schema Proximity Network for Composed Image Retrieval. [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/1574)    
 - [11] **[ICCV'25] |** MA-CIR: A Multimodal Arithmetic Benchmark for Composed Image Retrieval. [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/2532)
-- [12] **[ACL'25] |** Modeling Uncertainty in Composed Image Retrieval via Probabilistic Embeddings. [[Paper]](https://aclanthology.org/2025.acl-long.61.pdf)    
+- [12] **[ACL'25] |** Modeling Uncertainty in Composed Image Retrieval via Probabilistic Embeddings. [[Paper]](https://aclanthology.org/2025.acl-long.61.pdf)
+- [13] **[ACM MM'25] |** OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval.
 
 ### 2024
 - [1] **[WACV'24] |** Bi-directional Training for Composed Image Retrieval via Text Prompt Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10484044)  
