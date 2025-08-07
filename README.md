@@ -169,7 +169,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [8] **[ICCV'25] |** CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2502.20826)    
 - [9] **[ICCV'25] |** Hierarchy-Aware Pseudo Word Learning with Text Adaptation for Zero-Shot Composed Image Retrieval. [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/336)
 - [10] **[ICCV'25] |** An Efficient Post-hoc Framework for Reducing Task Discrepancy of Text Encoders for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2406.09188)
-- [11] **[ICCV'25] |** Zero-Shot Composed Image Retrieval via Dual-Stream Instruction-Aware Distillation. [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/1828)         
+- [11] **[ICCV'25] |** Zero-Shot Composed Image Retrieval via Dual-Stream Instruction-Aware Distillation. [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/1828)
+- [12] **[KDD'25] |*** Generative Thinking, Corrective Action: User-Friendly Composed Image Retrieval via Automatic Multi-Agent Collaboration. [[Paper]](https://dl.acm.org/doi/10.1145/3711896.3736982)        
 
 ### 2024
 - [1] **[AAAI'24] |** Context-I2W: Mapping Images to Context-Dependent Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28324)
