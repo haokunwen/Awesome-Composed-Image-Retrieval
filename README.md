@@ -56,6 +56,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [11] **[ICCV'25] |** MA-CIR: A Multimodal Arithmetic Benchmark for Composed Image Retrieval. [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/2532)
 - [12] **[ACL'25] |** Modeling Uncertainty in Composed Image Retrieval via Probabilistic Embeddings. [[Paper]](https://aclanthology.org/2025.acl-long.61.pdf)
 - [13] **[ACM MM'25] |** OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval.
+- [14] **[NeurIPS'25] |** Towards Robust Uncertainty Calibration for Composed Image Retrieval. [[Paper]](https://openreview.net/pdf?id=LSS6JMvgha)
+- [15] **[NeruIPS'25] |** Instance-Level Composed Image Retrieval. [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/119710)    
 
 ### 2024
 - [1] **[WACV'24] |** Bi-directional Training for Composed Image Retrieval via Text Prompt Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10484044)  
@@ -215,14 +217,13 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [1] **[NeruIPS'18] |** Dialog-based interactive image retrieval. [[Paper]](https://dl.acm.org/doi/10.5555/3326943.3327006)
 
 ## 7. COVR<a id="section7"></a>
-## Pre-prints
-- [1] **[Arxiv'25] |** From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos. [[Paper]](https://arxiv.org/pdf/2506.05274)    
 
 ### 2025
-- [1] **[CVPR'25] |** Localizing Events in Videos with Multimodal Queries. [[Paper]](https://arxiv.org/abs/2406.10079)
-- [2] **[ICLR'25] |** Learning Fine-Grained Representations through Textual Token Disentanglement in Composed Video Retrieval. [[Paper]](https://openreview.net/forum?id=wGa2plE8ka)
-- [3] **[ACM MM'25] |** HUD: Hierarchical Uncertainty-Aware Disambiguation Network for Composed Video Retrieval.
-- [4] **[ICCV'25] |** Beyond Simple Edits: Composed Video Retrieval with Dense Modifications.
+- [1] **[CVPR'25] |** Localizing Events in Videos with Multimodal Queries. [[Paper]](https://arxiv.org/abs/2406.10079)    
+- [2] **[ICLR'25] |** Learning Fine-Grained Representations through Textual Token Disentanglement in Composed Video Retrieval. [[Paper]](https://openreview.net/forum?id=wGa2plE8ka)    
+- [3] **[ACM MM'25] |** HUD: Hierarchical Uncertainty-Aware Disambiguation Network for Composed Video Retrieval.    
+- [4] **[ICCV'25] |** Beyond Simple Edits: Composed Video Retrieval with Dense Modifications.    
+- [5] **[NeurIPS'25] |** From Play to Replay: Composed Video Retrieval for Temporally Fine-Grained Videos. [[Paper]](https://arxiv.org/pdf/2506.05274)    
 
 ### 2024
 - [1] **[AAAI'24] |** CoVR: Learning Composed Video Retrieval from Web Video Captions. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28334)
