@@ -56,8 +56,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [11] **[ICCV'25] |** MA-CIR: A Multimodal Arithmetic Benchmark for Composed Image Retrieval. [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/2532)
 - [12] **[ACL'25] |** Modeling Uncertainty in Composed Image Retrieval via Probabilistic Embeddings. [[Paper]](https://aclanthology.org/2025.acl-long.61.pdf)
 - [13] **[ACM MM'25] |** OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval.
-- [14] **[NeurIPS'25] |** Towards Robust Uncertainty Calibration for Composed Image Retrieval. [[Paper]](https://openreview.net/pdf?id=LSS6JMvgha)
-- [15] **[NeruIPS'25] |** Instance-Level Composed Image Retrieval. [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/119710)    
+- [14] **[NeurIPS'25] |** Towards Robust Uncertainty Calibration for Composed Image Retrieval. [[Paper]](https://openreview.net/pdf?id=LSS6JMvgha) 
 
 ### 2024
 - [1] **[WACV'24] |** Bi-directional Training for Composed Image Retrieval via Text Prompt Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10484044)  
@@ -173,6 +172,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [10] **[ICCV'25] |** An Efficient Post-hoc Framework for Reducing Task Discrepancy of Text Encoders for Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2406.09188)
 - [11] **[ICCV'25] |** Zero-Shot Composed Image Retrieval via Dual-Stream Instruction-Aware Distillation. [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/1828)
 - [12] **[KDD'25] |*** Generative Thinking, Corrective Action: User-Friendly Composed Image Retrieval via Automatic Multi-Agent Collaboration. [[Paper]](https://dl.acm.org/doi/10.1145/3711896.3736982)        
+- [13] **[NeruIPS'25] |** Instance-Level Composed Image Retrieval. [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/119710)
 
 ### 2024
 - [1] **[AAAI'24] |** Context-I2W: Mapping Images to Context-Dependent Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28324)
@@ -279,7 +279,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 | WebVid-CoVR              | Video+Text        | ~130.8K          | ~1.6M              | Generated          | [Link](https://imagine.enpc.fr/~ventural/covr/) | Video      |
 | ITCPR                        | Image+Text        | ~20K             | ~12.2K             | Human Annotated    | [Link](https://github.com/Delong-liu-bupt/Word4Per) | Person    |
 | Airplane, Tennis, and WHIRT | Image+Text        | ~7.7K            | ~8.7K              | Human Annotated    | - |    Remote Sensing  |
-| PATTERNCOM               | Image+Text        | ~30K             | ~21K               | Generated          | [Link](https://github.com/billpsomas/rscir) | Remote Sensing   |
+| PatternCom               | Image+Text        | ~30K             | ~21K               | Human Annotated          | [Link](https://github.com/billpsomas/rscir) | Remote Sensing   |
 | FS-COCO               | Sketch+Image+Text | ~10K             | ~10K               | Human Annotated    | [Link](https://github.com/pinakinathc/fscoco) | Sketch        |
 | SketchyCOCO             | Sketch+Image+Text | ~14K             | ~14K               | Automatic matching | [Link](https://github.com/sysu-imsl/SketchyCOCO) | Sketch |
 | CSTBIR                    | Sketch+Image+Text | ~108K            | ~2M                | Automatic matching | [Link](https://vl2g.github.io/projects/cstbir/) |  Sketch       |
@@ -287,3 +287,4 @@ Collections for the Composed Image Retrieval (CIR), including:
 | Mini-DomainNet            |Clip+Paint+Image+Sketch | ~137K | -- | -- | [Link](https://github.com/NikosEfth/freedom) | Domain Conversion |
 | NICO++                |Aut+Dim+Grass+Out+Rock+Water | ~80K | -- | -- | [Link](https://github.com/NikosEfth/freedom) | Domain Conversion |
 | LTLL                |Today+Archive | 488 | -- | -- | [Link](https://github.com/NikosEfth/freedom) | Instance Level Domain Conversion |
+| i-CIR                |Image+Text | ~750K | ~13.5K | Human Annotated | [Link](https://github.com/billpsomas/icir) | Art, Landmark, Fictional, Mobility, Fashion, Product, Household, Tech |
