@@ -57,7 +57,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [12] **[ACL'25] |** Modeling Uncertainty in Composed Image Retrieval via Probabilistic Embeddings. [[Paper]](https://aclanthology.org/2025.acl-long.61.pdf)
 - [13] **[ACM MM'25] |** OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval.
 - [14] **[NeurIPS'25] |** Towards Robust Uncertainty Calibration for Composed Image Retrieval. [[Paper]](https://openreview.net/pdf?id=LSS6JMvgha)
-- [15] **[NeruIPS'25] |** Instance-Level Composed Image Retrieval. [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/119710)    
+- [15] **[NeruIPS'25] |** Instance-Level Composed Image Retrieval. [[Paper]](https://openreview.net/pdf?id=7NEP4jGKwA)    
 
 ### 2024
 - [1] **[WACV'24] |** Bi-directional Training for Composed Image Retrieval via Text Prompt Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10484044)  
