@@ -33,14 +33,15 @@ Collections for the Composed Image Retrieval (CIR), including:
 ## 2. Supervised CIR<a id="section2"></a>
 ### Pre-prints
 - [1] **[Arxiv'25] |** DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2505.17796)    
-- [2] **[Arxiv'25] |** TMCIR: Token Merge Benefits Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2504.10995)    
-- [3] **[Arxiv'25] |** Scale Up Composed Image Retrieval Learning via Modification Text Generation. [[Paper]](https://arxiv.org/pdf/2504.05316)    
-- [4] **[Arxiv'25] |** FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2503.21309)    
-- [5] **[Arxiv'24] |** VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval. [[Paper]](https://arxiv.org/abs/2406.04292)
-- [6] **[Arxiv'23] |** Relieving Triplet Ambiguity: Consensus Network for Language-Guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2306.02092)  
-- [7] **[Arxiv'23] |** Ranking-aware Uncertainty for Text-guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.08131)  
-- [8] **[Arxiv'23] |** Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.16649)  
-- [9] **[Arxiv'23] |** VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering. [[Paper]](https://arxiv.org/abs/2312.12273)
+- [2] **[Arxiv'25] |** TMCIR: Token Merge Benefits Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2504.10995)     
+- [3] **[Arxiv'25] |** FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2503.21309)    
+- [4] **[Arxiv'24] |** VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval. [[Paper]](https://arxiv.org/abs/2406.04292)    
+- [5] **[Arxiv'23] |** Relieving Triplet Ambiguity: Consensus Network for Language-Guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2306.02092)     
+- [6] **[Arxiv'23] |** Ranking-aware Uncertainty for Text-guided Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.08131)     
+- [7] **[Arxiv'23] |** Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.16649)     
+
+### 2026   
+- [1] **[TMM'26] |** Joint Attribute Graph Reasoning and Aggregation for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11373564)      
 
 ### 2025
 - [1] **[AAAI'25] |** Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2412.11087)
@@ -56,7 +57,11 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [11] **[ICCV'25] |** MA-CIR: A Multimodal Arithmetic Benchmark for Composed Image Retrieval. [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/2532)
 - [12] **[ACL'25] |** Modeling Uncertainty in Composed Image Retrieval via Probabilistic Embeddings. [[Paper]](https://aclanthology.org/2025.acl-long.61.pdf)
 - [13] **[ACM MM'25] |** OFFSET: Segmentation-based Focus Shift Revision for Composed Image Retrieval.
-- [14] **[NeurIPS'25] |** Towards Robust Uncertainty Calibration for Composed Image Retrieval. [[Paper]](https://openreview.net/pdf?id=LSS6JMvgha) 
+- [14] **[NeurIPS'25] |** Towards Robust Uncertainty Calibration for Composed Image Retrieval. [[Paper]](https://openreview.net/pdf?id=LSS6JMvgha)
+- [15] **[TMM'25] |** Scale Up Composed Image Retrieval Learning via Modification Text Generation. [[Paper]](https://arxiv.org/pdf/2504.05316)
+- [16] **[AAAI'25] |** VQA4CIR: Boosting Composed Image Retrieval with Visual Question Answering. [[Paper]](https://arxiv.org/abs/2312.12273)
+- [17] **[ICML'25] |** QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval. [[Paper]](https://dl.acm.org/doi/10.5555/3780338.3781598)         
+- [18] **[IJCNN'25] |** HADFF: Composed Image Retrieval Based on Hybrid-Attention and Dynamic Feature Fusion. [[Paper]](https://ieeexplore.ieee.org/document/11227555)        
 
 ### 2024
 - [1] **[WACV'24] |** Bi-directional Training for Composed Image Retrieval via Text Prompt Learning. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10484044)  
@@ -139,25 +144,27 @@ Collections for the Composed Image Retrieval (CIR), including:
 ### 2023
 - [1] **[AAAI'23] |** Few-Shot Composition Learning for Image Retrieval with Prompt Tuning. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/25597/25369)
 
-## 4. Zero-Shot CIR<a id="section4"></a>
-### Pre-prints 
-- [1] **[Arxiv'25] |** MLLM-Guided VLMFine-Tuning with Joint Inference for Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2505.19707)
+## 4. Zero-Shot CIR<a id="section4"></a>    
+### Pre-prints    
+- [1] **[Arxiv'25] |** MLLM-Guided VLMFine-Tuning with Joint Inference for Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2505.19707)    
 - [2] **[Arxiv'25] |** Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2505.19952)    
 - [3] **[Arxiv'25] |** From Mapping to Composing: A Two-Stage Framework for Zero-shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2504.17990)    
 - [4] **[Arxiv'25] |** Data-Efficient Generalization for Zero-shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2503.05204)    
-- [5] **[Arxiv'25] |** SCOT: Self-Supervised Contrastive Pretraining For Zero-Shot Compositional Retrieval. [[Paper]](https://arxiv.org/pdf/2501.08347v1)
-- [6] **[Arxiv'25] |** Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data. [[Paper]](https://arxiv.org/pdf/2504.00812)    
-- [7] **[Arxiv'24] |** MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2410.23736)
-- [8] **[Arxiv'24] |** iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2405.02951)
-- [9] **[Arxiv'24] |** Zero-shot Composed Image Retrieval Considering Query-target Relationship Leveraging Masked Image-text Pairs. [[Paper]](https://arxiv.org/abs/2406.18836)
-- [10] **[Arxiv'24] |** Training-free Zero-shot Composed Image Retrieval with Local Concept Re-ranking. [[Paper]](https://arxiv.org/abs/2312.08924)
-- [11] **[Arxiv'24] |** HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels. [[Paper]](https://arxiv.org/abs/2407.05795)
-- [12] **[Arxiv'24] |** Training-free Zero-shot Composed Image Retrieval via Weighted Modality Fusion and Similarity. [[Paper]](https://arxiv.org/abs/2409.04918)  
-- [13] **[Arxiv'24] |** Composed Image Retrieval for Training-Free Domain Conversion. [[Paper]](https://arxiv.org/pdf/2412.03297)
-- [14] **[Arxiv'24] |** Compositional Image Retrieval via Instruction-Aware Contrastive Learning. [[Paper]](https://arxiv.org/pdf/2412.05756)
-- [15] **[Arxiv'24] |** MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval. [[Paper]](https://arxiv.org/pdf/2412.14475)
-- [16] **[Arxiv'24] |** Denoise-I2W: Mapping Images to Denoising Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2410.17393)  
-- [17] **[Arxiv'23] |** Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2311.07622)
+- [5] **[Arxiv'25] |** SCOT: Self-Supervised Contrastive Pretraining For Zero-Shot Compositional Retrieval. [[Paper]](https://arxiv.org/pdf/2501.08347v1)    
+- [6] **[Arxiv'24] |** MoTaDual: Modality-Task Dual Alignment for Enhanced Zero-shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2410.23736)    
+- [7] **[Arxiv'24] |** Zero-shot Composed Image Retrieval Considering Query-target Relationship Leveraging Masked Image-text Pairs. [[Paper]](https://arxiv.org/abs/2406.18836)    
+- [8] **[Arxiv'24] |** Training-free Zero-shot Composed Image Retrieval with Local Concept Re-ranking. [[Paper]](https://arxiv.org/abs/2312.08924)    
+- [9] **[Arxiv'24] |** HyCIR: Boosting Zero-Shot Composed Image Retrieval with Synthetic Labels. [[Paper]](https://arxiv.org/abs/2407.05795)    
+- [10] **[Arxiv'24] |** Training-free Zero-shot Composed Image Retrieval via Weighted Modality Fusion and Similarity. [[Paper]](https://arxiv.org/abs/2409.04918)      
+- [11] **[Arxiv'24] |** Composed Image Retrieval for Training-Free Domain Conversion. [[Paper]](https://arxiv.org/pdf/2412.03297)    
+- [12] **[Arxiv'24] |** Compositional Image Retrieval via Instruction-Aware Contrastive Learning. [[Paper]](https://arxiv.org/pdf/2412.05756)    
+- [13] **[Arxiv'24] |** MegaPairs: Massive Data Synthesis For Universal Multimodal Retrieval. [[Paper]](https://arxiv.org/pdf/2412.14475)    
+- [14] **[Arxiv'24] |** Denoise-I2W: Mapping Images to Denoising Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2410.17393)    
+- [15] **[Arxiv'23] |** Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2311.07622)    
+
+### 2026   
+- [1] **[AAAI'26] |** Modality and Task Adaptation for Enhanced Zero-shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37534)    
+- [2] **[AAAI'26] |** Duplex Rewards Optimization for Test-Time Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38369)      
 
 ### 2025   
 - [1] **[COLING'25] |** MLLM-I2W: Harnessing Multimodal Large Language Model for Zero-Shot Composed Image Retrieval. [[Paper]](https://aclanthology.org/2025.coling-main.125.pdf)
@@ -173,6 +180,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [11] **[ICCV'25] |** Zero-Shot Composed Image Retrieval via Dual-Stream Instruction-Aware Distillation. [[Paper]](https://iccv.thecvf.com/virtual/2025/poster/1828)
 - [12] **[KDD'25] |*** Generative Thinking, Corrective Action: User-Friendly Composed Image Retrieval via Automatic Multi-Agent Collaboration. [[Paper]](https://dl.acm.org/doi/10.1145/3711896.3736982)        
 - [13] **[NeruIPS'25] |** Instance-Level Composed Image Retrieval. [[Paper]](https://neurips.cc/virtual/2025/loc/san-diego/poster/119710)
+- [14] **[TPAMI'25] |** iSEARLE: Improving Textual Inversion for Zero-Shot Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11098979)
+- [15] **[IJCNN'25] |** Scaling Prompt Instructed Zero Shot Composed Image Retrieval with Image-Only Data. [[Paper]](https://arxiv.org/pdf/2504.00812)  
 
 ### 2024
 - [1] **[AAAI'24] |** Context-I2W: Mapping Images to Context-Dependent Words for Accurate Zero-Shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28324)
@@ -245,9 +254,10 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [1] **[ICCV'25] |** AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs. [[Paper]](https://arxiv.org/pdf/2503.22884)    
 
 ### Remote Sensing Retrieval
-- [1] **[TGRS'25] |** Language-Empowered Conversion for Remote Sensing Image Retrieval With Text Feedback. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11010086&tag=1)    
-- [2] **[IGARSS'24] |** Composed Image Retrieval for Remote Sensing. [[Paper]](https://arxiv.org/abs/2405.15587)    
-- [3] **[TGRS'24] |** Scene Graph-Aware Hierarchical Fusion Network for Remote Sensing Image Retrieval With Text Feedback. [[Paper]](https://ieeexplore.ieee.org/document/10537211)
+- [1] **[IJCAI'25] |** PatternCIR Benchmark and TisCIR: Advancing Zero-Shot Composed Image Retrieval in Remote Sensing. [[Paper]](https://www.ijcai.org/proceedings/2025/171)        
+- [2] **[TGRS'25] |** Language-Empowered Conversion for Remote Sensing Image Retrieval With Text Feedback. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11010086&tag=1)    
+- [3] **[IGARSS'24] |** Composed Image Retrieval for Remote Sensing. [[Paper]](https://arxiv.org/abs/2405.15587)    
+- [4] **[TGRS'24] |** Scene Graph-Aware Hierarchical Fusion Network for Remote Sensing Image Retrieval With Text Feedback. [[Paper]](https://ieeexplore.ieee.org/document/10537211)
 
 ### Survey  
 - 🎯 **[TOIS'25] |** **A Comprehensive Survey on Composed Image Retrieval.** [[Paper]](https://arxiv.org/pdf/2502.18495)
