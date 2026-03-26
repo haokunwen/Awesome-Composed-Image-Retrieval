@@ -41,7 +41,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 - [7] **[Arxiv'23] |** Learning with Multi-modal Gradient Attention for Explainable Composed Image Retrieval. [[Paper]](https://arxiv.org/abs/2308.16649)     
 
 ### 2026   
-- [1] **[TMM'26] |** Joint Attribute Graph Reasoning and Aggregation for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11373564)      
+- [1] **[TMM'26] |** Joint Attribute Graph Reasoning and Aggregation for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11373564)     
+- [2] **[AAAI'26] |** INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39181)      
 
 ### 2025
 - [1] **[AAAI'25] |** Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2412.11087)
@@ -225,10 +226,12 @@ Collections for the Composed Image Retrieval (CIR), including:
 ### 2018
 - [1] **[NeruIPS'18] |** Dialog-based interactive image retrieval. [[Paper]](https://dl.acm.org/doi/10.5555/3326943.3327006)
 
-## 7. COVR<a id="section7"></a>
+## 7. COVR<a id="section7"></a>   
+### 2026    
+- [1] **[AAAI'26] |** ReTrack: Evidence-Driven Dual-Stream Directional Anchor Calibration Network for Composed Video Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39507)    
 
 ### 2025
-- [1] **[CVPR'25] |** Localizing Events in Videos with Multimodal Queries. [[Paper]](https://arxiv.org/abs/2406.10079)    
+- [1] **[CVPR'25] |** Localizing Events in Videos with Multimodal Queries. [[Paper]](https://arxiv.org/abs/2406.10079)   
 - [2] **[ICLR'25] |** Learning Fine-Grained Representations through Textual Token Disentanglement in Composed Video Retrieval. [[Paper]](https://openreview.net/forum?id=wGa2plE8ka)    
 - [3] **[ACM MM'25] |** HUD: Hierarchical Uncertainty-Aware Disambiguation Network for Composed Video Retrieval.    
 - [4] **[ICCV'25] |** Beyond Simple Edits: Composed Video Retrieval with Dense Modifications.    
