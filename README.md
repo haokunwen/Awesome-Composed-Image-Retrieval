@@ -42,7 +42,7 @@ Collections for the Composed Image Retrieval (CIR), including:
 
 ### 2026   
 - [1] **[TMM'26] |** Joint Attribute Graph Reasoning and Aggregation for Composed Image Retrieval. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11373564)     
-- [2] **[AAAI'26] |** INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39181)      
+- [2] **[AAAI'26] |** INTENT: Invariance and Discrimination-aware Noise Mitigation for Robust Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/39181)
 
 ### 2025
 - [1] **[AAAI'25] |** Leveraging Large Vision-Language Model as User Intent-aware Encoder for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2412.11087)
@@ -165,7 +165,8 @@ Collections for the Composed Image Retrieval (CIR), including:
 
 ### 2026   
 - [1] **[AAAI'26] |** Modality and Task Adaptation for Enhanced Zero-shot Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/37534)    
-- [2] **[AAAI'26] |** Duplex Rewards Optimization for Test-Time Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38369)      
+- [2] **[AAAI'26] |** Duplex Rewards Optimization for Test-Time Composed Image Retrieval. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/38369)
+- [3] **[WACV2026] |** PDV: Prompt Directional Vectors for Zero-shot Composed Image Retrieval [[Paper]](https://openaccess.thecvf.com/content/WACV2026/papers/Tursun_PDV_Prompt_Directional_Vectors_for_Zero-shot_Composed_Image_Retrieval_WACV_2026_paper.pdf)           
 
 ### 2025   
 - [1] **[COLING'25] |** MLLM-I2W: Harnessing Multimodal Large Language Model for Zero-Shot Composed Image Retrieval. [[Paper]](https://aclanthology.org/2025.coling-main.125.pdf)
