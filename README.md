@@ -4,7 +4,7 @@
 >
 > 📄 **A Comprehensive Survey on Composed Image Retrieval**
 >
-> [Xuemeng Song](https://scholar.google.com/), [Haoqiang Lin](https://scholar.google.com/), [Haokun Wen](https://scholar.google.com/), [Bohan Hou](https://scholar.google.com/), [Mingzhu Xu](https://scholar.google.com/), [Liqiang Nie](https://scholar.google.com/)
+> [Xuemeng Song](https://xuemengsong.github.io/), [Haoqiang Lin](https://scholar.google.com/citations?user=AXeQY7EAAAAJ&hl=zh-CN), [Haokun Wen](https://haokunwen.github.io/), [Bohan Hou](https://github.com/hbhalpha), [Mingzhu Xu](https://scholar.google.com/citations?user=hqHm3bgAAAAJ&hl=zh-CN), [Liqiang Nie](https://liqiangnie.github.io/)
 >
 > *ACM Transactions on Information Systems (TOIS)*, Vol. 44, No. 1, Article 19, 2025
 >
