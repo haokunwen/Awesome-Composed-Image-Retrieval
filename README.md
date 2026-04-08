@@ -19,14 +19,14 @@
 If you find this repository helpful, please consider citing our survey and giving this repo a ⭐.
  
 ```bibtex
-@article{song2025comprehensive,
+@article{cirsurvey,
   title={A Comprehensive Survey on Composed Image Retrieval},
   author={Song, Xuemeng and Lin, Haoqiang and Wen, Haokun and Hou, Bohan and Xu, Mingzhu and Nie, Liqiang},
   journal={ACM Transactions on Information Systems},
-  volume={44},
-  number={1},
-  pages={1--54},
-  year={2025},
+  volume       = {44},
+  number       = {1},
+  pages        = {19:1--19:54},
+  year         = {2026},
   publisher={ACM}
 }
 ```
