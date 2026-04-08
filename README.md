@@ -1,15 +1,48 @@
-# Awesome-CIR
-Collections for the Composed Image Retrieval (CIR), including:  
-[1. Attribute-based CIR](#section1)  
-[2. Supervised CIR](#section2)    
-[3. Few-shot CIR](#section3)    
-[4. Zero-shot CIR](#section4)    
-[5. Semi-supervised CIR](#section5)    
-[6. Conversational CIR](#section6)    
-[7. Composed Video Retrieval (COVR)](#section7)    
-[8. Sketch-based CIR](#section8)    
-[9. Others](#section9)  
-[10. Dataset statistics](#section10)    
+# Awesome Composed Image Retrieval (CIR) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated collection of papers, datasets, and resources for **Composed Image Retrieval (CIR)**, serving as the companion repository for our survey:
+>
+> 📄 **A Comprehensive Survey on Composed Image Retrieval**
+>
+> [Xuemeng Song](https://scholar.google.com/), [Haoqiang Lin](https://scholar.google.com/), [Haokun Wen](https://scholar.google.com/), [Bohan Hou](https://scholar.google.com/), [Mingzhu Xu](https://scholar.google.com/), [Liqiang Nie](https://scholar.google.com/)
+>
+> *ACM Transactions on Information Systems (TOIS)*, Vol. 44, No. 1, Article 19, 2025
+>
+> [[Paper (ACM DL)]](https://dl.acm.org/doi/full/10.1145/3767328) | [[arXiv]](https://arxiv.org/abs/2502.18495)
+ 
+## 🔥 Highlights
+ 
+- **Systematic analysis** of 120+ seminal papers (2017–2024)
+- **Unified evaluation** spanning ~10 benchmark datasets
+- **Continuously updated** — PRs and issues are welcome!
+ 
+If you find this repository helpful, please consider citing our survey and giving this repo a ⭐.
+ 
+```bibtex
+@article{song2025comprehensive,
+  title={A Comprehensive Survey on Composed Image Retrieval},
+  author={Song, Xuemeng and Lin, Haoqiang and Wen, Haokun and Hou, Bohan and Xu, Mingzhu and Nie, Liqiang},
+  journal={ACM Transactions on Information Systems},
+  volume={44},
+  number={1},
+  pages={1--54},
+  year={2025},
+  publisher={ACM}
+}
+```
+
+
+## 📑 Table of Contents
+- [1. Attribute-based CIR](#section1)  
+- [2. Supervised CIR](#section2)    
+- [3. Few-shot CIR](#section3)    
+- [4. Zero-shot CIR](#section4)    
+- [5. Semi-supervised CIR](#section5)    
+- [6. Conversational CIR](#section6)    
+- [7. Composed Video Retrieval (COVR)](#section7)    
+- [8. Sketch-based CIR](#section8)    
+- [9. Others](#section9)  
+- [10. Dataset statistics](#section10)    
 ---
 
 ✨ **Feb. 2025 | Excited to announce our latest work:** ✨    
