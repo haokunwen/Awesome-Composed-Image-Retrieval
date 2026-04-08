@@ -16,22 +16,6 @@
 - **Unified evaluation** spanning ~10 benchmark datasets
 - **Continuously updated** — PRs and issues are welcome!
  
-If you find this repository helpful, please consider citing our survey and giving this repo a ⭐.
- 
-```bibtex
-@article{cirsurvey,
-  title={A Comprehensive Survey on Composed Image Retrieval},
-  author={Song, Xuemeng and Lin, Haoqiang and Wen, Haokun and Hou, Bohan and Xu, Mingzhu and Nie, Liqiang},
-  journal={ACM Transactions on Information Systems},
-  volume       = {44},
-  number       = {1},
-  pages        = {19:1--19:54},
-  year         = {2026},
-  publisher={ACM}
-}
-```
-
-
 ## 📑 Table of Contents
 - [1. Attribute-based CIR](#section1)  
 - [2. Supervised CIR](#section2)    
@@ -330,3 +314,19 @@ If you find this repository helpful, please consider citing our survey and givin
 | NICO++                |Aut+Dim+Grass+Out+Rock+Water | ~80K | -- | -- | [Link](https://github.com/NikosEfth/freedom) | Domain Conversion |
 | LTLL                |Today+Archive | 488 | -- | -- | [Link](https://github.com/NikosEfth/freedom) | Instance Level Domain Conversion |
 | i-CIR                |Image+Text | ~750K | ~13.5K | Human Annotated | [Link](https://github.com/billpsomas/icir) | Art, Landmark, Fictional, Mobility, Fashion, Product, Household, Tech |
+
+---
+If you find this repository helpful, please consider citing our survey and giving this repo a ⭐.
+ 
+```bibtex
+@article{cirsurvey,
+  title = {A Comprehensive Survey on Composed Image Retrieval},
+  author = {Song, Xuemeng and Lin, Haoqiang and Wen, Haokun and Hou, Bohan and Xu, Mingzhu and Nie, Liqiang},
+  journal = {ACM Transactions on Information Systems},
+  volume = {44},
+  number = {1},
+  pages = {19:1--19:54},
+  year = {2026},
+  publisher = {ACM}
+}
+```
