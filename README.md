@@ -12,7 +12,7 @@
  
 ## 🔥 Highlights
  
-- **Systematic analysis** of 120+ seminal papers (2017–2024)
+- **Systematic analysis** of 120+ seminal papers (2017–2025)
 - **Unified evaluation** spanning ~10 benchmark datasets
 - **Continuously updated** — PRs and issues are welcome!
  
