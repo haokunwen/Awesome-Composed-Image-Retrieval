@@ -31,6 +31,9 @@
  
 
 ## 1. Attribute-based CIR<a id="section1"></a>
+### 2023
+- [1] **[CVPR'23] |** FashionSAP: Symbols and Attributes Prompt for Fine-grained Fashion Vision-Language Pre-training. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Han_FashionSAP_Symbols_and_Attributes_Prompt_for_Fine-Grained_Fashion_Vision-Language_Pre-Training_CVPR_2023_paper.pdf)
+
 ### 2021
 - [1] **[ICCV'21] |** Learning Attribute-driven Disentangled Representations for Interactive Fashion Retrieval. [[Paper]](https://ieeexplore.ieee.org/document/9711479)
 - [2] **[ICCV'21] |** Face Image Retrieval with Attribute Manipulation. [[Paper]](https://ieeexplore.ieee.org/document/9710728)
@@ -264,7 +267,7 @@
 ## 9. Others<a id="section9"></a>
 ### Person Retrieval
 - [1] **[NeurIPS'25] |** Automatic Synthetic Data and Fine-grained Adaptive Feature Alignment for Composed Person Retrieval. [[Paper]](https://arxiv.org/pdf/2311.16515)    
-- [2] **[Arxiv'24] |** Word4Per: Zero-shot Composed Person Retrieval. [[Paper]](https://arxiv.org/abs/2311.16515)    
+- [2] **[Arxiv'24] |** Word4Per: Zero-shot Composed Person Retrieval. [[Paper]](https://arxiv.org/abs/2311.16515)
 
 ### Composed Pose Retrieval  
 - [1] **[ICCV'25] |** AutoComPose: Automatic Generation of Pose Transition Descriptions for Composed Pose Retrieval Using Multimodal LLMs. [[Paper]](https://arxiv.org/pdf/2503.22884)    
@@ -283,9 +286,10 @@
 - [5] **[Arxiv'24] |** A Survey of Multimodal Composite Editing and Retrieval. [[Paper]](https://arxiv.org/abs/2409.05405)
 
 ### Emerging Datasets      
-- [1] **[Arxiv'25] |** good4cir: Generating Detailed Synthetic Captions for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2503.17871)    
-- [2] **[Arxiv'24] |** EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections. [[Paper]](https://arxiv.org/pdf/2410.01536v2)
-- [3] **[Arxiv'24] |** ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval. [[Paper]](https://arxiv.org/pdf/2410.18715)
+- [1] **[Arxiv'26] |** FashionMV: Product-Level Composed Image Retrieval with Multi-View Fashion Data. [[Paper]](https://arxiv.org/abs/2604.10297)  
+- [2] **[Arxiv'25] |** good4cir: Generating Detailed Synthetic Captions for Composed Image Retrieval. [[Paper]](https://arxiv.org/pdf/2503.17871)    
+- [3] **[Arxiv'24] |** EUFCC-CIR: a Composed Image Retrieval Dataset for GLAM Collections. [[Paper]](https://arxiv.org/pdf/2410.01536v2)
+- [4] **[Arxiv'24] |** ChatSearch: a Dataset and a Generative Retrieval Model for General Conversational Image Retrieval. [[Paper]](https://arxiv.org/pdf/2410.18715)   
 
 ## 10. Dataset statistics<a id="section10"></a>
 | **Dataset**                                      | **Modalities**    | **Images Scale** | **Triplets Scale** | **Type**           | **Link**                    | **Domain** |
